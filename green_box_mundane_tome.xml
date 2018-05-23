@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="green_box_mundane_tome">
+        <item>Hardcover book: "The Mounties: The History of the Royal Canadian Mounted Police" by Jim Lotz</item>
+        <item>A handwritten list with five names and addresses in Mexico City. A succesful Library Use roll, requiring acccess to some Law Enforcement databases, will reveal that two of the names are tentatively connected to passport forgery.</item>
+        <item>A paperback copy of Jessie Ventura\'s "American Conspiracies: Lies, Lies, and More Dirty Lies that the Government Tells Us"</item>
+        <item>This tome is awkwardly entitled, "The What\'s Happening to my Body? Book for Boys". It contains information aimed at helping pubescent boys cope with pimples, erections, facial hair, etc.</item>
+        <item>A handwritten translation of a book simply entitled "Islamic Studies", written by an unknown author. The book outlines obscure and forgotten rituals practiced by the early followers of Islam. Completion of the book takes 1d20 weeks, and awards +1 occult. No SAN loss.</item>
+        <item>A hardcover book: "Insomnia: A Clinician\'s Guide to Assessment and Treatment".</item>
+        <item>Heavy stacks of 1950s-era "muscle" magazines bound in twine.</item>
+        <item>A paperback book: "Storey\'s Guide to Raising Pigs: Care, Facilities, Management, Breed Selection".</item>
+        <item>A paperback book: "Genes and DNA: A Beginner\'s Guide to Genetics and Its Applications".</item>
+        <item>A hardcover book: "Handbook of Venoms and Toxins of Reptiles".</item>
+        <item>A printed PDF copy of US Army Technical Manual 31-210, covering improvised explosives and munitions. Included in several identical plastic tubs around it are potassium chlorate, powdered sulfur, carbon tetrachloride, and several other chemicals mentioned in the manual.</item>
+        <item>Cesssna 195 Flight and Operations Manual, dated 1948. A 62 page manual on yellowing paper , which is everything a pilot would need to safely operate and fly a 1948 model Cessna 195 (a single engined plane, with space for 1 pilot and 4 passengers, which was manufactured between 1947 and 1954). There is a key taped to the back page of the manual. Looks like the key to a lock-up garage, or outbuilding. There is also a phone number.</item>
+        <item>A Spanish language copy of "Arabian Nights". The book is heavily annotated, with pages missing and seemingly random sentences highlighted and underlined. Intelligent (or, lucky) investigators can recognize that this book has been used as a book cipher to communicate hidden messages.</item>
+        <item>A paperback book: \'I Am Legend\', in graphic novel form.</item>
+        <item>A paperback book: "A Pocket Dictionary of Aztec and Mayan Gods and Goddesses".</item>
+        <item>A signed first edition copy of Dashiell Hammet\'s classic detective novel Red Harvest. It has been well cared for, but also well read, and can thus no longer be considered in perfect condition.</item>
+        <item>A high school yearbook from Hot Springs, Arkansas, dated 1963. Should the investigators look through it, they might notice future President Bill Clinton.</item>
+        <item>A hardcover book: "A Hieroglyphic Dictionary of Egyptian Coffin Texts".</item>
+        <item>A manuscript: part of an unpublished autobiography by former Mexican President Lazaro Cardenas. The top leaf bears his autograph. Pouring over the text indicates there are entire chapters missing.</item>
+        <item>A hardcover book in german: "Die Gestapo: Mythos und Realitat".</item>
+        <item>A screenplay entitled "The Man from Leicester". It is a blatant ripoff of the film adaptation of Stephen King\'s "Needful Things" with only character names and locations changed.</item>
+        <item>A hardcover book: "Forensic Dental Evidence, Second Edition: An Investigator\'s Handbook".</item>
+        <item>Early reprint edition of "The Custer Myth: A Source Book of Custeriana" by W. A. Graham, Bonanza Books: New York, 1953.</item>
+        <item>TM 31-210: Improvised Munitions Handbook.</item>
+        <item>A paperback book: "Astronomy For Dummies".</item>
+        <item>A copy of the Anarchist\'s Cookbook containing flawed instructions. After 2 weeks of study, make a Demolitions roll. If the rolls fails, the reader\'s Demolitions skill is effectively -15%. Another Demolitions or INTx2 roll (or careful analysis of what went wrong) after a failed Demolitions roll in the future allows them to realize the instructions were misleading and dangerous.</item>
+        <item>A paperback book: "The Ultimate Sniper: An Advanced Training Manual for Military and Police Snipers".</item>
+        <item>Two 24" x 24" cardboard cartons filled with 70\'s, 80\'s and early 90\'s era backissues of Spring 3100, the monthly magazine published by the New York City Police Department.</item>
+        <item>An English-Russian dictionary.</item>
+        <item>A scuffed hardback book: "Mein Kampf".</item>
+        <item>A thick folder stamped with various DoD and CIA classified-information marks, dating to the early eighties. It contains in-depth technical drawings and engineering write-ups for the Soviet 9K37 Buk surface-to-air missile system, not exactly Delta Green\'s field of expertise to say the least.</item>
+        <item>a ring-bound book: "Remington 870 Shotgun Disassembly &amp; Reassembly Gun-guide".</item>
+        <item>A paperback book: "Extraterrestrials in Biblical Prophecy" by G. Cope Schellhorn, published by Horus House Press, May 1990.</item>
+        <item>A thick three-ring binder full of surveillance photographs of varying quality. They all appear to be focused on a Catholic orphanage and its employees, engaged in mundane day-to-day chores. Certain street signs, addresses, and advertisements can be seen in some photos, which can be traced to Belfast. No writing or other justification can be found in the binder, but the final photograph has a single nun (not visible in any other photos) circled in red ink, next to a frantically scribbled notation: "HER".</item>
+        <item>A paperback book: "The Sword and the Shield: The Mitrokhin Archive and the Secret History of the KGB".</item>
+        <item>A hardcover copy of "Parapsychology: A Concise History" by John Beloff. Published 1993 (Athlone Press; London)</item>
+        <item>A hardcover book: "Origins Of The Gulag: The Soviet Prison Camp System, 1917-1934".</item>
+        <item>A spiral-bound photocopy of Sir Kenelm Digby\'s 1658 alchemo-medical treatise: "A Late Discourse made in Solemne Assembly of Nobles and Learned Men at Montpellier in France, Touching the Cure of Wounds by the Powder of Sympathy".\nThe powder is quite literally as useless in this day and age as its title suggests.</item>
+        <item>A paperback book: "Female Genital Mutilation: A Practical Guide to Worldwide Laws &amp; Policies".</item>
+        <item>A copy of "Tesla: Man Out of Time" by Margaret Cheney, published by Bantam Books, 1981.</item>
+        <item>An investigative report on the Chicago plane hijack in 1999.</item>
+        <item>A hardback book: "A Culture of Conspiracy: Apocalyptic Visions in Contemporary America" by Michael Barkun, University of California Press Berkeley, Los Angeles, 2003; ISBN 0-520-23805-2</item>
+        <item>"Witch Cults of England" by Jackson Elias. A 1920 work about the history of witchcraft in Great Britain, up until the modern era. The book is in fair condition and bears a penciled in price of $35 as well as a bookmark from Bookfinder General Used Books, of Annapolis, MD.</item>
+        <item>Several photocopied pages from an air conditioner repair manual; handwritten notations cover the pages, mainly dealing with ways to sabotage A/C units to fail at a specific and desired time.</item>
+        <item>Paperback: "Judas at the Jockey Club and Other Episodes of Porfirian Mexico" (Second Edition)</item>
+        <item>A paperback book: "Psychology for Dummies".</item>
+        <item>A hardcover book: "The Trauma Treatment Handbook: Protocols Across the Spectrum".</item>
+        <item>A VHS tape containing two-and-a-half hours of an Indonesian "sinetron" (soap-opera) show.</item>
+        <item>A 1997 Ordinance Survey roadmap of Greater London and the surrounding metropolitan area, UK.</item>
+        <item>A copy of conspiracy theorist Milton William Cooper\'s 1991 book "Behold a Pale Horse"</item>
+        <item>A paperback copy of Dead City, by Shane Stevens.</item>
+        <item>A gallery catalog for a student art show at Bennington College, 1994. One piece, a mixed-media creation by a Christine Shizo, is circled. It is titled "Dark Mountain Study #2" and is a conic hill (made of bricks, rubber tubes, and astro-turf) over which a mobile hangs. On the mobile are colored resin globes, each containing a large beetle or other insect.</item>
+        <item>Paperback book: Polar Star, by Martin Cruz Smith.</item>
+        <item>"The Plains Cree: An Ethnographic, Historical, and Comparative Study" by David G. Mandelbaum. University of Regina Press, 1979.</item>
+        <item>Six spindles of unlabelled DVD+Rs containing enough (legal) hardcore pornography to fit even the most jaded tastes.</item>
+        <item>A paperback book: "The Occult Roots of Nazism: Secret Aryan Cults and Their Influence on Nazi Ideology" by Nicholas Goodrick-Clarke; New York University Press, 1992.</item>
+        <item>A paperback book: "Seven Weeks to Sobriety: The Proven Program to Fight Alcoholism through Nutrition".</item>
+        <item>A paperback book: "The Complete Idiot\'s Guide to Hinduism, 2nd Edition".</item>
+        <item>"The Penguin Encyclopedia Of Horror And The Supernatural", edited by Jack Sullivan; Viking, 1986, New York.</item>
+        <item>A 1980s paperback reprint of the 1918 book "Sons of Death", by Jackson Elias. The award-winning text deals with Elias\' infiltration of a Thugee cult in India, though this shoddy reprint lacks both the illustrations and two middle chapters.</item>
+        <item>A road-map from 1976 for Iceland.</item>
+        <item>A hardcover copy of "Whodunit? A Guide To Crime, Suspense and Spy Fiction" by H.R.F. Keating; Van Norstrand Reinhold Company, New York, 1982.</item>
+        <item>A Hartford, Connecticut phone book, dated 1965. All the listings for book dealers have been excised.</item>
+        <item>Complete 75-issue run of the Marvel Comics title "Rom: Spaceknight" stored in a couple of longboxes.</item>
+        <item>Stack of slightly greasy "Ethnic Cuisine" cookery books.</item>
+        <item>A hardcover book: "The United Nations Conspiracy" by Robert W. Lee; published by Western Islands, 1981.</item>
+        <item>A slim brown antique‑looking volume whose spine has long since been rubbed clean of lettering. The title page reads "The Ridpath Dance Series, Volume IV. On the Folk‑Dances of Umbria and Tuscany. Newly translated into English. New York, 1897" Within the pages there are several crude line drawings of peasants dancing in various ungainly costumes, faces expressionless. Most of the book is filled with diagrams of many dances, masses of footprints and black arrows. A cloth bookmark is stuck in towards the back of the book, at a page devoted to a diagram of a rather monotonous-looking dance consisting of much spinning in place. The text on the page reads:\n"\'II Mutamentos (The Changes), Of unknown origin. This dance is said to mimic, in symbolic terms, the transformation of a worm into a butterfly. It may be performed either singly or in pairs."</item>
+        <item>A paperback book: "The Vietnam War: A Concise International History".</item>
+        <item>A paperback book: "Sinister Forces: A Grimoire of American Political Witchcraft - Book Three: The Manson Secret" by Peter Levenda</item>
+        <item>A worn paperback book: "Car Bomb Recognition Guide: How They\'re Made, How To Detect Them".</item>
+        <item>A paperback book: "Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt".</item>
+        <item>A self-published book entitled "My Time In Hell" by a "George Meinhoff"; it\'s a novel written from the point of view of a demon living in Milwaukee.</item>
+        <item>Paperback: "The PTSD Workbook: Simple, Effective Techniques for Overcoming Traumatic Stress Symptoms"</item>
+        <item>A worn copy of "Wildflowers and Ferns of Indiana Forests" by Michael A. Homoya. The opens automatically to the entry for Dicentra cucullaria, Dutchman\'s Breeches.</item>
+        <item>A small hardcover book: "Shinto: Origins, Rituals, Festivals, Spirits, Sacred Places".</item>
+        <item>An hardback omnibus edition of Robert E. Howard\'s Solomon Kane stories</item>
+        <item>A copy of "The Bible Code" by Michael Drosnin; Simon &amp; Schuster, New York, 1997</item>
+        <item>A tourist map of the city around the Green Box.</item>
+        <item>A waterproof map case with a map of the levees that surround New Orleans. If compared to the levees that failed during Katrina they match up one for one.</item>
+        <item>A hardcover copy of "The World of the Incas" by William H. Prescott; published by Tudor Publishing, New York, 1974. Book is good condition, but is missing it\'s dust jacket.</item>
+        <item>A hardcover book: "Special Category: The IRA in English Prisons, Vol. 1: 1968-1978".</item>
+        <item>A paperback book: "The mythology of the Aryan nations, Volume 1".</item>
+        <item>A rare copy of the bizarre fictional encyclopedia "Codex Seraphinianus"</item>
+        <item>Children\'s book: "The Day Jimmy\'s Boa Ate the Wash"</item>
+        <item>A paperback book:"Psyop: Military Psychological Operations Manual".</item>
+        <item>Dozens and dozens of cardboard boxes, all full of yellowing local newspapers dating back decades</item>
+        <item>A paperback book: Harry Potter and the Goblet of Fire</item>
+        <item>A hardcover book: "East German Foreign Intelligence: Myth, Reality and Controversy".</item>
+        <item>A paperback book: "Surgical Anatomy and Technique: A Pocket Manual".</item>
+        <item>A hardcover book: "The Rise of the Fourth Reich: The Secret Societies That Threaten to Take Over America" by Jim Marrs</item>
+        <item>An unopened boxed set containing a copy of "The Book of Thoth" by Aleister Crowley, and a cope of the Thoth Deck of Tarot cards to accompany the text. This is one of the 200 original signed copies by Crowley.\nStudying the book takes Seven weeks, and adds 5% to Occult. At Keeper\'s discretion, a character who intends to learn the Tarot from the book may study it for 10 weeks, and in addition to the Occult, gain 10% in Tarot Reading.</item>
+        <item>A map of the local area in a military style map case.</item>
+        <item>An unused photo album, still covered in shrink wrap.</item>
+        <item>A paperback book: "The Depression Cure: The 6-Step Program to Beat Depression without Drugs".</item>
+        <item>A set of 7 medical and anatomy text books -- all pre-WWI , the fly sheet identifies the owner as one "H. WEST". The books are pristine for their age with no notes or annotations.</item>
+        <item>A paperback book: "Underground Bases and Tunnels: What is the Government Trying to Hide?" by Dr. Richard Sauder. Published by Adventures Unlimited Press (July 1996)</item>
+        <item>A paperback book: "Assessing Infiltration and Exfiltration on the Performance of Urban Sewer Systems". A post-it note on it says: "Infiltration and Exfiltration of GROUNDWATER. Bah!".</item>
+        <item>A large binder that contains massive quantities of photographs, reports, phone records, transcripts, etc. pertaining to one of the investigators present. It appears to be an assessment by another cell of whether or not the investigator is a security risk to Delta Green, and after weeks of in-depth study the conclusion was reached that he or she was not.\nThe keeper is encouraged to assess a 0/1 SAN loss for that individual, seeing their behavior and identity probed and documented to that level of depth, without his or her knowledge.</item>
+        <item>A hardcover 1st edition of "The New Russian Poets 1953 - 1968", selected/edited/translated by George Reavey, published by October House Inc.; London, 1968.</item>
+        <item>Agatha Christie detective novels. Lots of them. Most have pages falling out and a few are missing where the culprit is unmasked.</item>
+        <item>A paperback book: "The Malay-Muslim Insurgency in Southern Thailand--Understanding the Conflict\'s Evolving Dynamic: RAND Counterinsurgency Study".</item>
+        <item>A thin scrapbook, entitled "Wish List". It is filled with photographs of various types of air strikes.</item>
+        <item>A copy of "Zodiac" by Martin Graysmith, St. Martin\'s Press, 1986.</item>
+        <item>A paperback book: "Drug Information Handbook with International Trade Names Index".</item>
+        <item>Paperback book: "Mexico and Peru: Myths and Legends" by Lewis Spence; published by Senate, London, 1994.</item>
+        <item>A paperback book from 1903: "Sewer Maps and Sewage Disposal Works Plans for West Seneca New York NY".</item>
+        <item>A paperback book: "Nuclear Weapons: A Very Short Introduction".</item>
+        <item>A paperback book: "The Christian Catacombs of Rome: History, Decoration, Inscriptions".</item>
+        <item>A paperback book: "Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind".</item>
+        <item>A copy of US Army Survival Manual: FM 21-76 printed in 1975. It has information on wilderness survival in a variety of environments as well as navigation, escape and evasion.</item>
+        <item>A blue three ringed binder with a blank cover. Inside is a catalog of Roman coinage from the Vespasian Era to the fall of the Western Roman Empire. Each page is a black and white image of one coin, and the text is well over a hundred pages long.</item>
+        <item>A stack of Dunkin Donuts (or Krispy Kreme!) coupons. Luck roll to see if they are expired or not.</item>
+        <item>A 23 minute educational film, in color, entitled "Africa\'s Peoples, vol. 11: The Masai". It dated 1972.</item>
+        <item>A hardcover book: "Rodent Control: A Practical Guide For Pest Management Professionals".</item>
+        <item>A signed paperback copy of Richard "Demo Dick" Marcinko\'s infamous hagiographical-guidebook "Leadership Secrets of the Rogue Warrior: A Commando\'s Guide to Success"</item>
+        <item>A non-descript black raincoat, size large.</item>
+        <item>A paperback book: "London Under London: A Subterranean Guide" by Richard Trench and Ellis Hillman; John Murray Publishers Ltd, 1989.</item>
+        <item>A hardcover book: "Parasitology and Vector Biology, Second Edition".</item>
+        <item>A hardcover book: "Secret Soldiers of the Revolution: Soviet Military Intelligence, 1918-1933".</item>
+        <item>A paperback book: "The Secret King: The Myth and Reality of Nazi Occultism".</item>
+        <item>"The Octopus: Secret Government and the Death of Danny Casolaro" by Kenn Thomas &amp; Jim Keith.</item>
+        <item>A copy of the graphic novel Watchmen, written by Alan Moore. It shows heavy signs of wear from reading and use.</item>
+        <item>A large cardboard box containing mixed newspaper clippings about child disappearances across western USA for the last twenty years.</item>
+        <item>A collection of six Survival Research Labs videotapes (VHS format) The tapes date from the late 1980s and early 1990s. They have been viewed many times and are beginning to wear out.</item>
+        <item>A hardcover book: "Ichthyology Handbook".</item>
+        <item>A worn pamphlet of IRA propaganda.</item>
+        <item>A file folder bearing the label "Anomaly 6, California". The contents are two publicly available satellite photos (one from 1992, the other 2004) of a hilly area of Southern Monterey Country, CA, northeast of Samson. Both maps show roughly the same patch of rolling hills, small farms, and the occasional larger building with one critical difference. The second map shows one of the small valleys, about 1/2 across, has been the subject to some sort of significant event. The soil has an ashen appearance while the surrounding trees have been burned (careful inspection notes a radial falling of trees away from the center of the area) and toppled. A short report summarizes a few investigatory telephone calls to local authorities who indicate that the area suffered a small fire during a particularly violent thunderstorm. Whoever complied the notes indicates they did not believe this story to be true.</item>
+        <item>A paperback book: "The Lutheran Handbook: A Field Guide to Church Stuff, Everyday Stuff, and the Bible".</item>
+        <item>A 2.5" thick three-ring binder, of the sort you\'d find in an office or a student\'s dorm room. The binder is stuffed full of double-sided printouts of US Diplomatic Corps communiques (Wikileaks: Cablegate). All of the print-outs have been annotated by at least three people, and their notes appear to be discussions of whether or not certain world events are connected to Mythos activity. One of the commenters appears to have spent considerable time tying certain military actions to MAJESTIC operations.</item>
+        <item>A paperback copy of "Arms of Steel, Eyes of Fire" (1986, Rose Press); a romance novel set in the English colony at Port Royal, Jamaica, during the "Age of Pirates!" The heroine, Jessica St. Claire, is the runaway daughter of a British noble who falls in with Dirk O\'Shay, the "Dagger of Santa Domingo", a notorious pirate. There\'s a great deal of heaving bosoms, PG-rated seduction, and Z-grade dialog.</item>
+        <item>A dog-eared paperback thriller about a defecting Russian nuclear submarine.</item>
+        <item>A heavy hardcover book: "Catalog of Worldwide Nuclear Testing".</item>
+        <item>Paperback: "Virtual Government: CIA Mind Control Operations in America" by Alex Constantine.</item>
+        <item>A spiral-bound book: "Spiders of North America: An Identification Manual".</item>
+        <item>A paperback book: "Astrology For Dummies".</item>
+        <item>1997 edition of "The Secret Team: The CIA and Its Allies in Control of the United States and the World" by L. Fletcher Prouty.</item>
+        <item>A worn paperback book: "U.S. Army Intelligence and Interrogation Handbook: The Official Guide on Prisoner Interrogation".</item>
+        <item>Paperback: "John McCarty\'s Official Splatter Movie Guide Vol. II: Hundreds More of the Grossest, Goriest, Most Outrageous Movies Ever Made" by John McCarty. St. Martin\'s Press, Feburary 1992. In fine condition with some creases on the spine.</item>
+        <item>"Graven Images: New England Stonecarving and its Symbols, 1650-1815" by Allen Ludwig. Book is new and still wrapped in plastic.</item>
+        <item>The manuscript of a travelogue detailing the author\'s hunting trip in the Catskills. It is somewhat poorly written, but informative in it\'s description of local wildlife and survival techniques.</item>
+        <item>A 1987 VHS of "Sesame Street\'s Big Bird in China" in its original case.</item>
+        <item>Rand-McNally USA Road Atlas.</item>
+        <item>A 4GB USB stick, which contains a multitude of Powerpoint Presentations on various mythologies of the world. They are best used as a reference guide, but if an investigator was to spend a few weeks studying them all thoroughly, gaining 5-10% of Occult would be appropriate.</item>
+        <item>A copy of "Origins of the Sexual Impulse" by Colin Wilson.</item>
+        <item>A street map of the city the investigators are in, or the nearest large city if in a rural area. Several locations have been circled with red ink, and if they are investigated at night turn out to be the locations of at least a dozen street drug dealers.</item>
+        <item>A paperback book: " Violent Politics: A History of Insurgency, Terrorism, and Guerrilla War, from the American Revolution to Iraq".</item>
+        <item>A worn paperback book: "Cassell\'s Concise Latin-English, English-Latin Dictionary".</item>
+        <item>A paperback book: Harry Potter and the Sorcerer\'s Stone</item>
+        <item>One copy of Odette Keun\'s "In the Land of the Golden Fleece: Through Independent Menchevist Georgia" (1924). The book\'s spine is cracked and the pages are badly foxed.</item>
+        <item>A manilla folder containing approximately 62 yellowed pages and photographs. All detail the movements and habits of a 53 year old white male and are dated between 12 and 17 years ago.</item>
+        <item>A thick hardback textbook on HTML coding, several editions out of date. It looks to be the oldest item in the Green Box, judging by the dust.</item>
+        <item>A shiny new ebook reader with the complete collections of Shakespeare and Charlotte Bronte included.</item>
+        <item>Eight large black-and-white photographs of Akkadian script on clay tablets. Anyone capable of translating it will find nothing but ancient tax-listings and the sumerian equivalent of Facebook Statuses.</item>
+        <item>The "Not For Tourists" guidebook to Chicago, 2004 edition.</item>
+        <item>The Power of Myth, by Joseph Campbell, flipped through and dog-eared with notes on mythology of North-American Native cultures.</item>
+        <item>A paperback copy of "Time Storms: The Amazing Evidence of Time Warps, Space Rifts and Time Travel" by Jenny Randles; published in 2001 by Piatkus Books.</item>
+        <item>A map of the local area with the best places to watch people while remaining unseen circled in red.</item>
+        <item>A dance book, published in the 1940\'s in remarkable condition. It is devoted to various folk dances from Western Europe.</item>
+        <item>A paperback book: "Unspeakable Acts, Ordinary People: The Dynamics of Torture".</item>
+        <item>A paperback book in spanish: "De Los Maras a Los Zetas. De Colombia a Chicago: Los Secretos Del Narcotrafico De Colombia a Chicago".</item>
+        <item>A paperback book: "The Everything Guide to Catholicism: A complete introduction to the beliefs, traditions, and tenets of the Catholic Church from past to present".</item>
+        <item>A pristine, cellophane-bound Hindi-language copy of "The Fountainhead".</item>
+        <item>A paperback book: "Cryptography Engineering: Design Principles and Practical Applications".</item>
+        <item>A trade paperback: "Shoot Them Down! - The Flying Saucer Air Wars Of 1952" by Frank Feschino, Jr.</item>
+        <item>A Manhattan telephone book, dated 1959. Under "Book publishers" it lists Arkham University; a search of city records shows the listed address and telephone number to be those of the private residence of an obscure lawyer with no connection to said university.</item>
+        <item>Every issue of SaucerWatch\'s periodical "Semper Vigilus" published between 1992-1996.</item>
+        <item>A very well-catalogued collection of newspapers and history books on the region. Using them when researching the local area gives an investigator a +10% to Library Use rolls.</item>
+        <item>A paperback book: "An Illustrated Dictionary of the Gods and Symbols of Ancient Mexico and the Maya".</item>
+        <item>A hardcover book: A first edition of "The Humanoids - A Survey of Worldwide Reports of Landings of Unconventional Aerial Objects &amp; Their Alleged Occupants", edited by Charles Bowen, published by Spearman, 1969.</item>
+        <item>A technicians manual for an UH-60 Blackhawk helicopter. Parts in it has been marked with a red pen. Critical parts that will lead to a crash if damaged ...</item>
+        <item>102 page printout logging all of the transactions for a Fleet Bank ATM in Hartford, CT from the spring of 1998.</item>
+        <item>A hardcover book: "Ebola and Marburg Viruses: Molecular and Cellular Biology".</item>
+        <item>A paperback book: "The Catcher in the Rye".</item>
+        <item>A paperback book: "The Essentials of Cave Diving: Jill Heinerth\'s Guide to Cave Diving".</item>
+        <item>A collection of appellate court decisions regarding the legal limits of FBI power vis. Indian reservations. Sections with rulings where the FBI has been given greater leeway have been highlighted.</item>
+        <item>A copy of "Atlantis: The Eighth Continent" by Charles Berlitz; published by Fawcett-Crest, New York, 1984</item>
+        <item>A hardcover book: "Leprosy: Diagnosis and Management".</item>
+        <item>A printout of an Earth Liberation Front arson manual; it contains instructions for the construction of improvised incindiary devices.</item>
+        <item>A Christmas card, printed in 1970.. A vague tower or hall is depicted on the cover, with a single shining square window, that overlooks a pallid lake. The illustration is rendered in pastels and muted colours. Inside is the printed text "Merry Christmas" and a pencilled inscription "Remember Carcosa? Christmas Party 1969! Let\'s do it all again. Love, Todd."</item>
+        <item>A paperback copy of "Brighter than a Thousand Suns: A Personal History of the Atomic Scientists" by Robert Jungk.</item>
+        <item>A paperback book: "The Illustrated Learn Handgun &amp; Rifle Reloading: With over 225 full color photos and/or illustrations".</item>
+        <item>Three Taser X2 pistols.</item>
+        <item>A paperback book: "The Banalization of Nihilism: Twentieth-Century Responses to Meaninglessness".</item>
+        <item>A paperback book:"The U.S. Army/Marine Corps Counterinsurgency Field Manual".</item>
+        <item>A paperback book: "Greek Fire, Poison Arrows, and Scorpion Bombs: Biological &amp; Chemical Warfare in the Ancient World" by Adrienne Mayor</item>
+        <item>A set of maps from the local area - road map, geographical map, tourist guide, etc. Everything you need to search the area *very* thoroughly.</item>
+        <item>A hardcover book: "Ticks and Tick-Borne Pathogens".</item>
+        <item>A complete copy of the core rulebook for the popular tabletop game "Call of Cthulhu - 7th Edition".</item>
+        <item>A paperback book: "Mau Mau and Kenya: An Analysis of a Peasant Revolt".</item>
+        <item>A hardcover book: "Dictionary of Ecclesiastical Latin".</item>
+        <item>A copy of "African Rifles and Cartridges" by John Taylor</item>
+        <item>41 pages of a type-written movie script entitled "Wild Desert Bikers". It is not very good.</item>
+        <item>A paperback book. "The Dragon in the Land of Snows: A History of Modern Tibet Since 1947".</item>
+        <item>A paperback: "Sky Creatures: Living UFOs" by Trevor Jones Constable, Simon &amp; Schuster, 1978</item>
+        <item>A paperback book: "New Orleans Architecture Vol III: The Cemeteries".</item>
+        <item>A 1973 Pan Books paperback edition of "Cannibalism and Human Sacrifice" by Garry Hogg.</item>
+        <item>A printout of the May 2001 Earth Liberation Front Guide to Setting Fires With Timers.</item>
+        <item>A hardback book: The Illustrated Directory of GUNS; A collector\'s guide to over 2000 military, sporting and antique firearms.</item>
+        <item>A paperback book: "Witness Identification in Criminal Cases: Psychology and Practice".</item>
+        <item>A copy of "Medico-legal investigations of death", the book is regarded as something of a bible among forensic pathologists.</item>
+        <item>A hardcover book: "Aquaporins (Handbook of Experimental Pharmacology)".</item>
+        <item>A hardcover book: "Perry\'s Chemical Engineers\' Handbook, Eighth Edition".</item>
+        <item>A paperback book: "South: The Last Antarctic Expedition of Shackleton and the Endurance".</item>
+        <item>A complete set of \'WEIRD WAR Tales\' comics in near mint condition. The series was printed from 1971-1983 by DC Comics and spans 124 issues. They are bagged and boarded and stored in a longbox that has \'Property of Thomas Fell" scrawled on the side in ballpoint pen.</item>
+        <item>A box of notebooks filled with incomprehensible equations. Anyone who passes a Mathematics roll will realize they are just gibberish, and have no real meaning.</item>
+        <item>A worn collection of 20 obscure Turkish superhero comic books.</item>
+        <item>A new but well-worn Quran.</item>
+        <item>Scuffed paperback edition of "Still Living? Yeti, Sasquatch and the Neanderthal Enimga" by Myra Shackley, published by W.W. Norton &amp; Co. Inc., June 1986.</item>
+        <item>Somebody\'s library of Betamax videocassette tapes. There\'s a lot of good stuff if you\'re into low-budget mid-1980s movies.</item>
+        <item>A paperback book: "One Aryan Nation Under God: How Religious Extremists Use the Bible to Justify Their Beliefs".</item>
+        <item>A rewriteable CD labeled "Cairo June 16, 2011"</item>
+        <item>A complete 12 volume set of the Encyclopedia Americana, dated 1976, in mint condition, except that every page is annotated with marginal notes, which taken together point toward a massive conspiracy to subvert the US government. (Keeper\'s fiat as to whether there is anything to this).</item>
+        <item>A softcover book with a creased spine: "The Shaver Mystery and the Inner Earth Mystery" by Timothy Green Beckley; Clarksburg, WV: Sacuerian Press, 1967.</item>
+        <item>A hardcover book: "Hunting America\'s Bear: Tactics for Taking Our Most Exciting Big-Game Animal".</item>
+        <item>A dot-matrix print-out of a modified "Eliza" program, written in Pascal. Someone familiar with the computer language will note that the program has been altered to log the use of certain undefined "key words". The subroutine listing the "key words" is missing.</item>
+        <item>A paperback book: "Anthropology For Dummies".</item>
+        <item>Hardback book: "Selected Speeches of Enver Hoxha"; a Spanish Language edition printed in Mexico City.</item>
+        <item>"The Interrupted Journey" by John Fuller, hardcover, missing it\'s dust jacket, published by Dial Press, New York, 1966. - an account of the alleged alien abduction of Barney and Betty Hill.</item>
+        <item>A paperback book: "Voodoo and Hoodoo: The Craft as Revealed by Traditional Practitioners".</item>
+        <item>A paperback book: "The Stone Sky: Spelunking in the Mountains and Minds of Antarctica".</item>
+        <item>A paperback book: "Frontiers of Heresy: The Spanish Inquisition from the Basque Lands to Sicily".</item>
+        <item>A book called "The Travelers Guide to the Severn Valley."\nInside, it explains the idyllic beauty of the British countryside. Though oddly, it warns tourists to avoid certain locales such as Goatswood.</item>
+        <item>A hardcover book: "Undermining the Kremlin: America\'s Strategy to Subvert the Soviet Bloc, 1947-1956".</item>
+        <item>A paperback book: "Kabbalah For Dummies".</item>
+        <item>A copy of the Anarchist\'s Cookboox. 2 weeks of study and +3% to the Demolitions skill.</item>
+        <item>A paperback book: "Papal Magic: Occult Practices Within the Catholic Church".</item>
+        <item>A paperback book: "History and Mythology of the Aztecs: The Codex Chimalpopoca".</item>
+        <item>A paperback book: "Babylon\'s Banksters: The Alchemy of Deep Physics, High Finance and Ancient Religion" by Joseph P. Farrell.</item>
+        <item>A three-ring binder which holds a lengthy report analyzing the prevalence of racial profiling in police traffic stops. Published by the Texas Department of Public Safety, 1992.</item>
+        <item>A hardcover book: "The Branch Davidians of Waco: The History and Beliefs of an Apocalyptic Sect".</item>
+        <item>A hardcover book: "Hiding in the Mirror: The Quest for Alternate Realities, from Plato to String Theory (by way of Alice in Wonderland, Einstein, and The Twilight Zone)" by Lawrence Krauss</item>
+        <item>A hardcover book: "Introduction to Physical Metallurgy".</item>
+        <item>An 1801 edition of "Thaumaturgical Prodigies in the New-English Canaan". It is in poor condition and bears a stamp from the Steeplin, NH public library.</item>
+        <item>A University of Florida freshman facebook from 2002. Two photos are circled: Brent E. Harcourt of Taveres, Florida, and Gloria N. Anderson of Ocala, Florida.</item>
+        <item>A copy of "The Invisibles: Voodoo Gods in Haiti" by Francis Huxley; McGraw-Hill, 1969</item>
+        <item>Paperback: "Dark Woods: Cults, Crime, and the Paranormal in the Freetown State Forest, Massachusetts" by Christopher Balzano, published by Schiffer Books.</item>
+        <item>A well-used paperback copy of Ronald Hutton\'s "The Pagan Religons of the Ancient British Isles: Their Nature and Legacy"</item>
+        <item>A 1959 print of "Starship Troopers" by Robert A. Heinlein. The pages are browned with age, but otherwise it seems to be in perfect condition.</item>
+        <item>A folder containing notes on trials of a drug called cortexiphan. The study uses children as test subjects.</item>
+        <item>A lengthy book on plumbing. Up to date.</item>
+        <item>A paperback book: "Toxic People: 10 Ways Of Dealing With People Who Make Your Life Miserable". A post-it note has been pasted to the front of the book. It says:"#11 - Fully Automatic Weapons".</item>
+        <item>A pamphlet explaining the occult symbology behind the TV show "Lost".</item>
+        <item>A paperback book: "Trafficking Cocaine: Colombian Drug Entrepreneurs in the Netherlands (Studies of Organized Crime)".</item>
+        <item>A copy of "Reefer Madness" on DVD.</item>
+        <item>A paperback book: "The Ultimate Straight Shooters Guide To Negotiating With The IRS To Resolve YOUR Tax Problems!: Discover What Options Are Available Other Than Bankruptcy, Divorce, Jail or Death".</item>
+        <item>A mass-market paperback copy of John Keel\'s "Our Haunted Planet"</item>
+        <item>A paperback book: "God Speaks Again: An Introduction to the Baha\'i Faith".</item>
+        <item>A paperback book: "Inside the Vatican: The Politics and Organization of the Catholic Church".</item>
+        <item>A paperback book: "Learning to Fly Helicopters".</item>
+        <item>A paperback book: "Cathar Castles: Fortresses of the Albigensian Crusade 1209-1300".</item>
+        <item>A work book that has every possible space covered in esoteric maths, written in a scrawling script. Those with an advance understanding of maths can see its correct but cannot divine its true meaning.</item>
+        <item>A paperback "Project Moon Dust - Beyond Roswell - Exposing the Government\'s Continuing Covert UFO Investigations and Cover-Ups" by Kevin D. Randle</item>
+        <item>A paperback book: "The Cognitive Behavioral Workbook for Anxiety: A Step-by-Step Program".</item>
+        <item>A newly printed copy of the Beowulf Saga.</item>
+        <item>A basic book on the workings of stage magic.</item>
+        <item>A cellphone with no contacts.</item>
+        <item>There are 3 recieved text messages which seem to contain random letters and gibberish.</item>
+        <item>A single message was sent back to the unknown number minutes after the last message was recieved.</item>
+        <item>It simply reads: UVB-76</item>
+        <item>A hardcover book: "Handbook of Chemical and Biological Warfare Agents, Second Edition".</item>
+        <item>A hardcover book: "Aerosol Technology: Properties, Behavior, and Measurement of Airborne Particles".</item>
+        <item>An English-Chinese dictionary.</item>
+        <item>A copy of John K. Cooley\'s "Unholy Wars: Afghanistan, America and International Terrorism", missing the dustcover and frontispiece.</item>
+        <item>A very large, very battered hardback book about as thick as two encyclopedia volumes. The binding is cracked and there are signs that the binding, casement, and covers were yanked off and none-too-carefully glued back on. Closer inspection reveals that the tome is actually a copy of "PGP Source Code and Internals" by Philip Zimmerman, et al, and contains the complete source code to Pretty Good Privacy v2.6.2. The idea is that, to get around ITAR export regulations in the 1990\'s the book could be shipped out of the country, broken apart, scanned to reconstitute the source code, and compiled into a working binary.\nIf a character has the time and patience to read the whole thing (933 pages, call it 16 weeks), and has a reasonable background in computers or cryptography, the character could potentially gain skill points in Cryptography or Computer Use on a successful skill check.</item>
+        <item>A paperback book: "Let\'s Learn Hiragana: First Book of Basic Japanese Writing (Kodansha\'s Children\'s Classics)"</item>
+        <item>A paperback book: "Amputations: An Illustrated Manual".</item>
+        <item>A paperback book: "Lucid Dreaming: A Concise Guide to Awakening in Your Dreams and in Your Life".</item>
+        <item>A worn paperback book: "Journal of a cruise of the United States schooner Dolphin: Among the islands of the Pacific Ocean and a visit to the Mulgrave Islands, in pursuit of the mutineers of the whale ship Globe.".</item>
+        <item>A hardcover book, with some foxing of the rear pages and a secondhand bookseller\'s stamp on the title page: "The Head with the Long Yellow Hair: Life Among Headhunters" by Jane Dollinger; Robert Hale, London, 1958.</item>
+        <item>A series of folders marked "Experimental Series 17," which contain lists of cigarette sales in the United States, Europe and Asia sorted by age and sex.</item>
+        <item>Paperback book: "The Shadows of Power: The Council on Foreign Relations and the American Decline" by James Perloff.</item>
+        <item>A paperback book: "Among the Cannibals: Adventures on the Trail of Man\'s Darkest Ritual".</item>
+        <item>Dog-eared and spine-cracked copy of "Taken: Inside the Alien-Human Abduction Agenda" by Karla Turner, Ph.D.</item>
+        <item>A hardback copy of _Final Exit: The Practicalities of Self-Deliverance and Assisted Suicide for the Dying_ by Derek Humphry. The book is in excellent condition, down to the nearly pristine dustcover. Careful examination of the binding will reveal that it\'s barely been opened (two or three times, at most).</item>
+        <item>1 small notepad, multiple entries, all encoded.</item>
+        <item>A paperback book: "The Hong Kong Filmography, 1977-1997: A Reference Guide to 1,100 Films Produced by British Hong Kong Studios" by John Charles</item>
+        <item>A menu from a chinese restaurant named "Yellow Emperor". A search for the restaurant finds that it burned to the ground a couple of years ago. Arson was suspected.</item>
+        <item>A hardcover book: "London Beneath the Pavement" by Michael Harrison, published by Peter Davies, London, 1961</item>
+        <item>A photograph depicting someone\'s naked shoulder with a key‑shaped tattoo.</item>
+        <item>A metal box filled with yearbooks from Del Valle High School; one copy for each year from 1963 to last year.</item>
+        <item>A paperback book: "Power Boating For Dummies".</item>
+        <item>A paperback book: "Casarett &amp; Doull\'s Essentials of Toxicology, Second Edition".</item>
+        <item>A hand-drawn map of what appear to be battleplans for an amphibious landing. The paper is very old and the ink is incredibly faded, but if scrutinized and compared with modern maps, it becomes clear they concern an American invasion of Cuba dating back to the presidency of Andrew Jackson.</item>
+        <item>A paperback book: "Mongolia: Travels in the Untamed Land".</item>
+        <item>A well-thumbed copy of Che Guevara\'s "Guerrilla Warfare"</item>
+        <item>A hardcover book: "The Brooklyn Water works and sewers.".</item>
+        <item>A bus map of the city of Huston, TX from the year 2001. Several seemingly random locations are circled in red pencil.</item>
+        <item>A collection of yellowed staff paper (for music composition). The melody is complex but obviously incomplete (written for the viol) and the pages are in no particular order. Notation in German and Italian.</item>
+        <item>A crumpled, water-stained paperback of the George R. R. Martin novel "Fevre Dream". The back cover and the last twenty pages are missing.</item>
+        <item>A paperback book: "National Geographic Guide to Scenic Highways and Byways, 3d Ed.".</item>
+        <item>A paperback book: "Talk Dirty Spanish: Beyond Mierda: The curses, slang, and street lingo you need to Know when you speak espanol".</item>
+        <item>A complete collection of Stephen K. Hayes books about ninjitsu. Aside from one text that briefly describes kuji-in (kuji-kiri, or ninja occultism), the reader will gain no mythos lore and no spells; they might gain 1-2% in Martial Arts. The text describing kuji-in may grant 1% in Occult upon a successful skill roll.</item>
+        <item>A stack of ten photocopied Rorschach tests peeling from their plastic laminate backing.</item>
+        <item>A paperback book: "Sumerian Lexicon: A Dictionary Guide to the Ancient Sumerian Language"</item>
+        <item>Twenty pages of Star Trek fan-fiction.</item>
+        <item>A paperback book: "The New Bantam-Megiddo Hebrew &amp; English Dictionary".</item>
+        <item>A cheap scrapbook containing developed pictures from a disposable camera. The pictures all date from 12/9/1998, and seem to all concern a birthday party. None of the photos seem to contain anything supernatural or unusual.</item>
+        <item>Physicians Desk Reference, 49th Edition, 1995. Comprehensive book listing FDA-approved drugs in the USA. There are four indexes: Manufacturer, Drug name, Category index (for example, "antihistamines") and Generic/chemical index. There are color pictures of medications. There is also detailed information on chemical make-up, drug function, Indications &amp; Contraindications, and the results of Trials, with side effects and warnings. There is a bookmark in the page for Mefloquine (an anti-malarial drug) with notes on the treatement regime for patient AF. (Medicine roll to tell that the levels perscribed were significantly higher than normal.)</item>
+        <item>A VHS copy of Disney\'s BAMBI copied over with a Filipino snuff film. Considering the grainy quality it\'s probably third-generation, filmed sometime in the early 1990s. It\'s not a nice video; watching it costs the average person 1/1D6 Sanity loss. Delta Green agents might not suffer so high a cost...</item>
+        <item>A 1967 yearbook for a high school in a small town in Maryland.</item>
+        <item>A paperback book: "Pocket Dictionary of North American Denominations: Over 100 Christian Groups Clearly &amp; Concisely Defined".</item>
+        <item>A tall stack of issues of FATE Magazine, most of them published in the early-to-mid 1990s.</item>
+        <item>A dog-eared paperback, the 2001 edition of "Others Unknown: Timothy McVeigh and the Oklahoma City Bombing Conspiracy" by McVeigh defense attorney Stephen Jones and former Putnam publisher Peter Israel.</item>
+        <item>Several college-level algebra and calculus textbooks, stacked neatly in a pile. The textbook at the bottom of the pile has several $100 bills hidden between its pages, totaling up to $2900.</item>
+        <item>A paperback book: "Breaking Addiction: A 7-Step Handbook for Ending Any Addiction".</item>
+        <item>A hardback copy of Katherine Briggs\' "An Encyclopedia of Fairies". There is a 1999 Burger King receipt from a Knoxville, TN franchise between pages 252 and 253. The entry for a Robert Kirk is flagged with a pencil checkmark. According to Kirk\'s entry, he wrote a manuscript in 1691 entitled "The Secret Commonwealth of Elves, Fauns and Fairies" that was not published until 1815.</item>
+        <item>A monograph from Denmark, dated 1880. Written in Danish by a Kurt Anleeth of Frederikshavn, it deals with the subjects of sea monsters. It is an informative and comprehensive read, and contains mention of \'Draakulu\', a beast which lives in an ocean on the other side of the world, that speaks through men\'s dreams.</item>
+        <item>A paperback book: "THE SYSTEMATICS &amp; AREAL DISTRIBUTION OF PELAGIC CEPHALOPODS FROM THE SEAS OFF SOUTHERN CALIFORNIA".</item>
+        <item>A paperback book: "A Guide to Military Criminal Law".</item>
+        <item>A paperback book: "A Guide to Psychological Debriefing: Managing Emotional Decompression and Post-Traumatic Stress Disorder".</item>
+        <item>A paperback: "Inside Job: The Shocking Case for a 9/11 Conspiracy" by Jim Marrs, published September 2005 by Origin Press.</item>
+        <item>A 1999 world atlas. Various locations have been had a X scribbled over them in red ink.</item>
+        <item>A well weathered copy of \'A Roadside Picnic\'. The front cover is missing and a plastic baggy of quarters are taped to the back.</item>
+        <item>A copy of "House of Leaves" by Mark Z. Danielewski.</item>
+        <item>A paperback book: "Wilderness Navigation: Finding Your Way Using Map, Compass, Altimeter &amp; Gps".</item>
+        <item>Hardcover copy of "An Alien Harvest: Further Evidence Linking Animal Mutilations and Human Abductions to Alien Life Forms" by Linda Moulton Howe.</item>
+        <item>A well worn copy of Ender\'s Game by Orson Scott Card, published in 1985. (This will obviously qualify as a Weird tome if your game is set before this.) It\'s a Sci-Fi story about human children being trained to fight an alien threat.</item>
+        <item>A hardcover book: "Field Confirmation Testing for Suspicious Substances".</item>
+        <item>A large blueprint of the Glen Rose nuclear plant in Texas, USA.</item>
+        <item>A paperback book: "The God Delusion" by Richard Dawkins.</item>
+        <item>A paperback book: "Exorcism Now: The Ritual, Use, and History of the Roman Ritual".</item>
+        <item>A 1977 paperback edition of "Junky" by William S. Burroughs</item>
+        <item>A 1911 hardbound book: "The Gods of Pegāna" by the 18th Baron of Dunsany</item>
+        <item>A complete printout of "Ecodefense: A Field Guide to Monkeywrenching", several passages in chapters detailing industrial sabotage and wilderness booby-trapping are heavily underlined or highlighted.</item>
+        <item>A paperback book: "The Complete Idiot\'s Guide to Auto Repair".</item>
+        <item>A paperback book: "Ragnar\'s Urban Survival: A Hard-Times Guide to Staying Alive in the City".</item>
+        <item>A paperback book: "Fundamentals of Physical Surveillance: A Guide for Uniformed an Plainclothes Personnel".</item>
+        <item>A small stack of sexual harrassment pamphlets. They appear to have been defecated on.</item>
+        <item>A paperback book: "The Trillion-Dollar Conspiracy: How the New World Order, Man-Made Diseases, and Zombie Banks Are Destroying America".</item>
+        <item>A hardback UK edition of "The Hunt for Zero Point: Inside the Classified World of Antigravity Technology" by Nick Cook.</item>
+        <item>The heavily redacted service record of a U.S. Air Force reconnaissance pilot, along with painstakingly updated personal details such as place of residence, routes driven, restaurants frequented, etc.\nAt the end of the report is a paragraph of hand-written speculation, implying the individual is now an NRO Delta operative.</item>
+        <item>A battered local phone-book. It looks like it has been repeatedly struck by some inch-thick object.</item>
+        <item>A folder containing a number of documents (all copies) of German Imperial Navy records for U66, a type UC II submarine believed lost in June of 1917. A post-it attached to the first sheet says "Is this \'U-29\'?" Also in the folder is information about a British freighter (the Victory) sunk June 18th by an unidentified U-Boat and a collection of charts detailing Mid-Atlantic ocean currents.</item>
+        <item>A complete library of the "Mysteries of the Unknown" books by Time-Life. They contain information on a variety of topics, from UFOs to Psychic Phenomenon.</item>
+        <item>A paperback book: "Guide for the Care and Use of Laboratory Animals: Eighth Edition".</item>
+        <item>A spiral notebook filled with notes, diagrams, and tables of a singularly military nature; close reading reveals it to be a guidebook on how to initiate a guerrilla war in the US should the United Nations occupy it.\nEven though the premise is rather specious, the information held within is generally reliable. It\'s clear that the author was well-versed in military theory, and this knowledge is further supported by excerpts from various sources, including H. von Dach\'s "Total Resistance", the US Army\'s Field Manual 31-21, and the works of numerous asymmetric warfare scholars like Andrew Mack and Jeffrey Record.</item>
+        <item>A print-out of all passengers flying with a Delta Airlines flight 1288 from Pensacola, Florida to Atlanta, Georgia on July 6, 1996.</item>
+        <item>A paperback book: "The Church In The Catacombs - A Description Of The Primitive Church Of Rome".</item>
+        <item>"Atlantis: The Andes Solution" by J.M. Allen, published by The Windrush Press, Gloucestershire, 1998.</item>
+        <item>A hardcover book: "The Biogeography of Host-Parasite Interactions".</item>
+        <item>A paperback book: "Veterans Benefits For Dummies".</item>
+        <item>A paperback book: "Time Machines: Time Travel in Physics, Metaphysics, and Science Fiction".</item>
+        <item>A newly printed Book of Mormon.</item>
+        <item>A paperback book: "Handbook of Radioactive Contamination and Decontamination".</item>
+        <item>A paperback book: "Saxons, Vikings, and Celts: The Genetic Roots of Britain and Ireland".</item>
+        <item>"The Myths of Ancient Persia" by one John Kline, with a bookmark.\nOpening the book to where the book mark is reveals a highlighted passage: "Among the odder legends of Persia, there was a particular legend that was only believed by a heterodox sect of Zoroastrians. It tells that when the Earth was aflame, came the Flame Cthugha. The Earth became colder, but there were ways to call this fire when needed."</item>
+        <item>A paperback book: "Basic Criminal Procedure (Police Practices): Cases, Comments, Questions".</item>
+        <item>An unmarked VCD containing the 1985 comedy movie TEEN-WOLF. At about the thirteen minute mark, the movie cuts to twenty-nine minutes of grainy, artefacted Filipino gang-bang porn, followed by brutal bolo-induced snuff - all the footage obviously filmed in a hotel bedroom. When the girl finally dies the screen goes back to Teen Wolf.\nAnyone watching the snuff in full suffers 1/1D5 Sanity loss, unless used to that sort of thing.</item>
+        <item>A paperback book: "German-English Genealogical Dictionary".</item>
+        <item>A Taiwanese pocket diary for this year (unused). Tells the reader the most auspicious and most unlucky things to do each day, though these are written in Traditional Chinese script.</item>
+        <item>A paperback book: "The Hidden History of the Human Race (The Condensed Edition of Forbidden Archeology)".</item>
+        <item>Printouts of maps of the New Jersey Pine Barrens, as well webpages discussing the area and it\'s legends, held together with a binder clip. The papers are badly creased and have several coffee stains.</item>
+        <item>A manila folder containing newspapers clippings from the 1940s through the 1970s. All of the clipping make reference to the so-called "Moodus Noises" in Connecticut. The folder is stamped "Carson Clipping Service".</item>
+        <item>A paperback book: "Spirits, Blood, and Drums: The Orisha Religion of Trinidad".</item>
+        <item>A hardback copy of \'Slapstick\' by Kurt Vonnegut, inscribed "For Sam" and in good condition.</item>
+        <item>An English - German phrase book from 1972. All the phrases are codeword recognition phrases.</item>
+        <item>"Black Helicopters Over America: Strikeforce for the New World Order" by Jim Keith, published by Illuminet Press, 1995.</item>
+        <item>A hardcover book: "The Sea Woman: Sedna in Inuit Shamanism and Art in the Eastern Arctic".</item>
+        <item>A paperback book: "A Dictionary of Christian Biography and Literature to the End of the Sixth Century A.d.: With an Account of the Principal Sects and Heresies".</item>
+        <item>A paperback book: "Moongate: Suppressed Findings of the US Space Program" by William L. Brian II; published by Future Science Research Publishing Company, 1982.</item>
+        <item>A stack of dot-matrix paper on which an email exchange has been printed. Dating from November 29 to December 3 of 1993 the two correspondents discuss a Dr. Arnst von Draffen (1827-1893?), apparently a disreputable Austrian alienist with a penchant for illegal medical experimentation. One person (Dr. Harvey Renyolds) is seeking any of his papers while the other (an unidentified library staff person at the University of Iowa) attempts to assist their search. Nothing useful is uncovered.</item>
+        <item>A hardback technical book: "Data Mining for Intelligence, Fraud and Crminal Detection".</item>
+        <item>A hardcover book: "Haunted by Atrocity: Civil War Prisons in American Memory".</item>
+        <item>Assorted rolled-up/folded maritime and aerial charts.</item>
+        <item>A relatively thick travel pamphlet containing information about several tourist attractions for the state in which the Green Box is located.</item>
+        <item>A paperback book: "Scuba Diving &amp; Snorkeling for Dummies".</item>
+        <item>An autographed copy of The Gunslinger by Stephen King.</item>
+        <item>A paperback book: "Current Paleoethnobotany: Analytical Methods and Cultural Interpretations of Archaeological Plant Remains".</item>
+        <item>A hardcover book: "Forensic Pathology, Second Edition".</item>
+        <item>A hardcover book: "Jesus Lied - He Was Only Human: Debunking The New Testament"</item>
+        <item>A hardcover book: "Deep-Water Processes and Facies Models: Implications for Sandstone Petroleum Reservoirs, Volume 5".</item>
+        <item>"Murder Squad: Famous Cases Of Scotland Yard\'s Murder Squad" by Tom Tullet; Granada Books, 1981, London.</item>
+        <item>A new, barely opened, Bible.</item>
+        <item>Some emergency worker\'s crime-scene scrapbook. Contains hundreds of graphic Polaroid pictures of murder scenes, car accidents, paramedic call-outs, autopsies, child-abuse snaps and other nastiness. (Sanity loss for those not used to the milk of human suffering is 0/1D2).</item>
+        <item>A hardback book: "The Campaigns of Napoleon", by David Chandler.</item>
+        <item>A fairly new copy of Michael Shaara\'s The Killer Angels in paperback.</item>
+        <item>A paperback book: "Basic Butchering of Livestock &amp; Game".</item>
+        <item>A 1908 re-print of \'Capital\' by Karl Marx in french. The book is well used and worn. The margins are full of faded hand-wirtten comments, much of it unreadable. Anyone actually reading the book and comparing it to the source text will find that the translation is far from perfect.</item>
+        <item>A print-out from an old dot matrix printer, faded into near illegibility. Only the title is readable: "Phase 3 Kompt-Grammun Protocol Trial Participants"</item>
+        <item>A plastic garbage bag with dozens of old family vacation photos taken from the 1960s to the early 1990s. Each photo shows a separate, smiling family waving at the viewer with a lake or a camp in the background. A nearby photo return envelopes has the name of a independently owned drug store inside a nearby mall, now long gone. The photos all have creases and bent corners, as if they had been handled frequently.</item>
+        <item>A paperback book: "Orthomolecular Treatment for Schizophrenia".</item>
+        <item>A hardcover book: "Edward Gein, America\'s Most Bizarre Murderer" by Robert H. Gollmar (the judge in the Gein case). Third edition published 1982 by Chas. Hallberg &amp; Co., Delavan, Wisconsin. Dust jacket is slightly soiled and has some tape repaired tears on te front and back.</item>
+        <item>A hardcover book: "The Law under the Swastika: Studies on Legal History in Nazi Germany".</item>
+        <item>Old, yellowed, dog-eared copy of 1960s-era US Army Improvised Weapons and Explosives handbook, full of highlighted passages and brief notes scribbled in margins. Reading it through may at Keeper\'s option grant 1-2% additional DEMOLITIONS skill.</item>
+        <item>A paperback book: "Situation Red: The UFO Siege" by Leonard H. Stringfield, published in 1977 by Fawcett Crest Books.</item>
+        <item>A paperback copy of \'My Work Is Not Yet Done\', by Thomas Ligotti.</item>
+        <item>A somewhat tattered first edition of "Lords Of Chaos: The Bloody Rise Of The Satanic Metal Underground" by Michael Moynihan &amp; Didrik Soderlind, published in 1998 by Feral House.</item>
+        <item>An US Army operator\'s manual for the BGM-71 TOW missile.</item>
+        <item>A tall stack of English-to-foreign-language dictionaries; easily over two dozen different tongues are represented here.</item>
+        <item>A paperback book: "In Pursuit of a Legend: 72 Days in California Bigfoot Country" by T.A. Wilson, published by Iceni Books.</item>
+        <item>A paperback book: "The Terror That Comes in the Night: An Experience-Centered Study of Supernatural Assault Traditions" by David J. Hufford, pubished by University of Pennsylvania Press, September 1, 1989.</item>
+        <item>A paperback book: "New York\'s Forgotten Substations: The Power Behind the Subway".</item>
+        <item>A set of two hardcover book: "Encyclopedia of Prostitution and Sex Work (part 1-2)".</item>
+        <item>A full one year subscription for 1995 of the largest local newspaper.</item>
+        <item>A manila folder containing several pages of drawings, clearly made by young children. The folder is labeled "Experiment 36-B results, dispose of immediately."</item>
+        <item>A hardcover copy of "Voodoo and Hoodoo: Their Tradition and Craft as Revealed by Actual Practitioners" by Jim Haskins, published by Stein &amp; Day, New York, 1978.</item>
+        <item>A safety deposit box filled with 23 Elvis Presley albums on cassettes.</item>
+        <item>A rolled-up wall poster depicting the procedures for field-stripping, cleaning, and re-assembling the M16A4 assault rifle.</item>
+        <item>A paperback book: "Nietzsche: Thus Spoke Zarathustra (Cambridge Texts in the History of Philosophy)".</item>
+        <item>A hardcover book: "Abnormal Child Psychology".</item>
+        <item>A paperback book:"Top Secret Tourism: Your Travel Guide to Germ Warfare Laboratories, Clandestine Aircraft Bases and Other Places in the United States You\'re Not Supposed to Know About".</item>
+        <item>A crate of IRS, FBI and Secret Service files related to Joseph Stoltzfus, of Sugarcreek, OH. An exile from an Amish community, Stoltzfus was repeatedly investigated for money laundering, tax fraud and counterfeiting from 1970 onward, after listing his occupation as a \'professional gambler\' and consistently reporting one to five million dollars in profits per year. All investigations were closed after finding only circumstantial evidence of wrongdoing, a mathematical analysis which determined the odds of Stoltzfus consistently winning on the sorts of games he claimed to play, over a 35 year period, as 398,000,000,000,000,000:1.</item>
+        <item>A paperback book: "Exploring the Northern Tradition: A Guide to the Gods, Lore, Rites, and Celebrations from the Norse, German, and Anglo-Saxon Traditions".</item>
+        <item>"MILABS: Military Mind Control and Alien Abduction" by Dr. Helmut Lammer and Marion Lammer. Paperback, published January 1999 by Illuminet Press.</item>
+        <item>Printout of the MIT Guide to Lockpicking</item>
+        <item>A large, plain cardboard box filled with cheap, paperback Westerns. Inside the front cover of each one someone has drawn a small, red dot with a biro.</item>
+        <item>A bookstore copy of Sun Tzu\'s \'The Art of War\' in excellent condition.</item>
+        <item>A copy of "The Common Sense Book of Baby and Child Care" by Dr. Benjamin Spock.</item>
+        <item>5 filing boxes filled with sheets of paper that have the same line printed over and over: "All work and no play makes Jack a dull boy."</item>
+        <item>Dozens of binders full of print-outs of hardcore paedophile pornography off the internet. Sickening stuff.</item>
+        <item>An almost complete collection of Region 2 "Dr Who" DVDs.</item>
+        <item>A hardcover book: "Practical Fire and Arson Investigation: Second Edition (Practical Aspects of Criminal &amp; Forensic Investigation)".</item>
+        <item>Library of America Edition of Ulysses S. Grant\'s Memoirs. Tucked into the back is a delivery menu for the China Town Restaurant in Cody, Wyoming.</item>
+        <item>A bootleg copy of the 1964 film "The Trial of Lee Harvey Oswald" directed by B-movie veteran Larry Buchanan - this is a low budget depiction of what might have been if Oswald had lived to stand trial for the assassination of President Kennedy..</item>
+        <item>A paperback book: "Ancient Ruins of the Southwest: An Archaeological Guide (Arizona and the Southwest)".</item>
+        <item>A paperback book: "Easy French Phrase Book: Over 750 Phrases for Everyday Use".</item>
+        <item>A hardcover book: "Nuclear Safety in Light Water Reactors: Severe Accident Phenomenology".</item>
+        <item>About eighty shrink-wrapped Arabic-language copies of the Quran in a packing-crate.</item>
+        <item>A piece of notebook paper with poorly drawn diagrams and nearly illegible writing. A successful Mechanical Repair, Operate Heavy Machinery, or other related skill roll will reveal that the paper lists at least a dozen methods to sabotage the air brakes of a tractor-trailer truck.</item>
+        <item>A paperback book: "Or Else Lightning God and Other Stories" by Catherine Lim</item>
+        <item>A dusty and worn out army manual on spotting edible plants in various environments. Upon inspection some of the pages are missing.</item>
+        <item>An authentic Imperial German gunner\'s manual dating back to the First World War, covering the operation and maintenance of a U-boat\'s 88mm deck gun.</item>
+        <item>A paperback book: "Essential Judaism: A Complete Guide to Beliefs, Customs &amp; Rituals".</item>
+        <item>An old hardcover book: "Vehicle recognition: A photographic guide to 1958 through 1976 cars".</item>
+        <item>A paperback book: "Ghost Beyond Earth" by G.M. Hague. On the cover is an orange sticker with \'$1.50\' written on it in black text. The words \'simply awful\' have been written, in red ink, beneath the author bio on the first page.</item>
+        <item>A local telephone directory. It is three years old and the spine breaks open at the restaurants section. Several listings under the heading of "electronics equipment" have been circled.</item>
+        <item>A softcover book: "S‑M: The Last Taboo" by Gerald and Caroline Green; Grove Press, New York, 1974.</item>
+        <item>"Low Road: The Life and Legacy of Donald Goines" by Eddie B. Allen.</item>
+        <item>Several architectural blueprints of a police precinct building in New York City; several points of entry, from air ducts to garage windows, have been circled in red pen.</item>
+        <item>A paperback book: "The New World Order" by A. Ralph Epperson; published by Publius Books, 1990.</item>
+        <item>Lewis Carroll\'s "Alice in Wonderland" and "Through the Looking Glass"</item>
+        <item>A hardcover book with a tattered dust jacket: "The Psychology of Insanity" by Bernard Hart; Cambridge University Press, 1957.</item>
+        <item>A paperback book: "The Certified Diver\'s Handbook: The Complete Guide to Your Own Underwater Adventures".</item>
+        <item>A hardcover book: "Air Traffic Control Handbook: The Complete Guide for all Aviation and Air Band Enthusiasts".</item>
+        <item>A hardcover book: "The Great Lone Land: Narrative of Travel and Adventure in the North-West of America" by William Francis Butler; Hurtig Publishers, Edmonton, 1968.</item>
+        <item>An autographed first edition of "Hannibal Crosses the Alps: The Invasion of Italy and the Second Punic War" by John Prevas</item>
+        <item>A copy of Akron\'s yellow pages, with twelve business names highlighted in pink. Along side one entry reads the phrase \'They know\'</item>
+        <item>Several pages cut from a magazine ("X: the Journal of the Uncanny!") and paperclipped together. The removed pages contain an article about John Bidwell, a London entrepreneur and occultist, suggesting that he might have been Jack the Ripper. One section discussing a strange crystal cube he used to meditate upon is underlined in pen.</item>
+        <item>Owner\'s manual for a 1985 Dodge Diplomat</item>
+        <item>A paperback book: "Self Defense Laws of All 50 States (With Plain-Talk Summaries)".</item>
+        <item>"Ancient Sumerian Gods: A Pronunciation Guide". Well thumbed and obviously used on a regular basis, it contains phonetic pronuciations of many of the ancient gods.</item>
+        <item>"A Pictorial History of Horror Stories: 200 Years of Spine-Chilling Illustrations from the Pulp Magazines" by Peter Haining; Treasure Library, 1985, London.</item>
+        <item>A paperback book: "Trucking Rules and Regulations: Reference Guide to Transportation".</item>
+        <item>A paperback book: "Light from the Christian East: An Introduction to the Orthodox Tradition".</item>
+        <item>An autographed first-edition of Dianetics.</item>
+        <item>A reprint edition of cryptozoologist Loren Coleman\'s "Mysterious America".</item>
+        <item>"The Cryptoterrestrials: A Meditation on Indigenous Humanoids and the Aliens Among Us" by Mac Tonnies, published in 2010 by Anomalist Books.</item>
+        <item>A hardcover book: "Sinister Forces: A Grimoire of American Political Witchcraft - Book One: The Nine" by Peter Levenda</item>
+        <item>A heavily Dog Eared collection of Terry Pratchett\'s DiscWorld Novels. Only books that feature the character Havelock Vetinari, Patrician of Ankh-Morpork are present.</item>
+        <item>A hardcover book with with a faded and slightly tattered dustjacket: "Living in Fear: A History of Horror In The Mass Media" by Les Daniels. Sribner\'s, 1975, New York City.</item>
+        <item>Several type-written sheets in a manila folder; it is a transcript, dated May 1982, made by a psychiatrist interviewing a British RAF cadet who was apparently lost in the wilderness in eastern Breconshire, Wales. He claims to have been repeatedly attacked and taunted by "little people", diminutive humanoids using stone tools and speaking a weird hissing language. The first few pages are missing, but it concluded with a lengthy note suggesting the unnamed young man was suffering from exposure and dehydration.</item>
+        <item>A Chinese-English dictionary.</item>
+        <item>A hardcover book: "The Manchurian President: Barack Obama\'s Ties to Communists, Socialists and Other Anti-American Extremists" by Aaron Klein.</item>
+        <item>A battered paperback copy of Howard Zinn\'s "A People\'s History of the United States"</item>
+        <item>A paperback book:"The History and Use of Zyklon B".</item>
+        <item>A large, but decidedly misleading and badly laid-out, assortment of newspapers and history books on the region. An investigator using them for local research suffers a -5% penalty to his Library Use roll.</item>
+        <item>A paperback book: "The Rise and Fall of the Third Reich: A History of Nazi Germany".</item>
+        <item>A plastic accordian folder for documents. It contains various receipts from a local auto repair shop, dated two years ago.</item>
+        <item>A 9th grade History textbook entitled "Our American Experience". The bookplate says the book came from the Marion County Consolidated School System.</item>
+        <item>A hardcover book: "Extremist Shiites: The Ghulat Sects (Contemporary Issues in the Middle East)"</item>
+        <item>A stack of papers held together with a binder clip. The papers detail a long list of five digit numbers each with a city and state after (these are US Zip Codes). A few of the numbers that lack a corresponding location have been flagged with notes like "Majestic Facility?", "Prison Camp?", and "REX 84?"</item>
+        <item>A copy of Major H. von Dach\'s "Total Resistance", with teastains running down the back cover and paragraphs marked with arrows and dashes that probably make sense only to their creator.</item>
+        <item>A paperback book: "Field Guide to Squids and Octopods of the Eastern North Pacific and Bering Sea".</item>
+        <item>Paperback book: Polar Star, by Martin Cruz Smith. The book is well worn, but readable.</item>
+        <item>A crinkled, faded pamphlet. It is a religious tract; there is no address or church or sect listed anywhere on the pamphlet, just an illustration of a cross and a rose on the front. The text mostly deals with synchronicity and symbology, explaining how the Cross is a physical representation of the numerical ratio 3:2, and how the Rose is the symbolic representation of the perpetual series. The rather dense text goes into fractals and strange geometries and how the world is built on ratios, and how ratios are the language of God, and how the word of God is just a vibrational pattern that the universe was founded upon.</item>
+        <item>A basic book on how to interpret dreams.</item>
+        <item>Several pages of a hastily sketched figure with exaggerated proportions and an emphasis on faceless qualities.</item>
+        <item>A paperback copy of Mao\'s "Little Red Book", translated into english.</item>
+        <item>A copy of "Order Of Assassins: The Psychology Of Murder" by Colin Wilson.</item>
+        <item>A paperback book: "Cave Exploring: The Definitive Guide to Caving Technique, Safety, Gear, and Trip Leadership".</item>
+        <item>A tourist map of the White House.</item>
+        <item>A paperback copy of "Sinister Forces: A Grimoire of American Political Witchcraft - Book Two: A Warm Gun" by Peter Levenda</item>
+        <item>Operator\'s Manual: Machine Gun, 7.62MM, M240.</item>
+        <item>A paperback book: "NASA, Nazis &amp; JFK: The Torbitt Document &amp; the Kennedy Assassination" by William Torbitt.</item>
+        <item>A box of Stephen King novels, including It, Misery, Under the Dome and others. They are in good condition, but have obviously been read by someone else in the past.</item>
+        <item>A hardcover book: "The Man-Eating Myth: Anthropology and Anthropohagy" by William Arens, Oxford University Press, 1979. Teh book bears stamps from three different used bookstores.</item>
+        <item>A thin book containing basic first aid instructions. There are brownish stains along the pages.</item>
+        <item>A softcover book: "The Unabomber and the Zodiac" by Douglas Evander Oswell</item>
+        <item>A copy of "The Rock" starring Nicholas Cage and Sean Connery on VHS.</item>
+        <item>A paperback book: Harry Potter and the Prisoner of Azkaban</item>
+    </string-array>
+</resources>

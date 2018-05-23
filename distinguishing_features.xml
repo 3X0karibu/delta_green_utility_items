@@ -1,0 +1,206 @@
+<resources>
+    <string-array name="feature_charisma_3_4">
+        <item>Vulgar</item>
+        <item>Unbearable</item>
+        <item>Rude</item>
+        <item>Crass</item>
+    </string-array>
+
+    <string-array name="feature_charisma_5_8">
+        <item>Awkward</item>
+        <item>Inhibited</item>
+        <item>Offhand</item>
+        <item>Self conscious</item>
+        <item>Shy</item>
+        <item>Silent</item>
+        <item>Standoffish</item>
+        <item>Unfriendly</item>
+    </string-array>
+
+    <string-array name="feature_charisma_9_12">
+        <item></item>
+    </string-array>
+
+    <string-array name="feature_charisma_13_16">
+        <item>Affable</item>
+        <item>Approachable</item>
+        <item>Charming</item>
+        <item>Friendly</item>
+        <item>Likable</item>
+        <item>Outgoing</item>
+        <item>Prepossessing</item>
+    </string-array>
+
+    <string-array name="feature_charisma_17_18">
+        <item>Beguiling</item>
+        <item>Captivating</item>
+        <item>Hypnotic</item>
+        <item>Irresistible</item>
+        <item>Magnetic</item>
+    </string-array>
+
+    <string-array name="feature_constitution_3_4">
+        <item>Ailing</item>
+        <item>Bedridden</item>
+        <item>Feeble</item>
+        <item>Sickly</item>
+    </string-array>
+
+    <string-array name="feature_constitution_5_8">
+        <item>Delicate</item>
+        <item>Frail</item>
+        <item>Unfit</item>
+        <item>Unwell</item>
+    </string-array>
+
+    <string-array name="feature_constitution_9_12">
+        <item></item>
+    </string-array>
+
+    <string-array name="feature_constitution_13_16">
+        <item>Fit</item>
+        <item>Perfect health</item>
+        <item>Resilient</item>
+        <item>Resistant</item>
+        <item>Robust</item>
+    </string-array>
+
+    <string-array name="feature_constitution_17_18">
+        <item>Indefatigable</item>
+        <item>Tough</item>
+    </string-array>
+
+    <string-array name="feature_dexterity_3_4">
+        <item>Accident prone</item>
+        <item>Barely mobile</item>
+        <item>Lumbering</item>
+        <item>Obese</item>
+    </string-array>
+
+    <string-array name="feature_dexterity_5_8">
+        <item>Awkward</item>
+        <item>Bulky</item>
+        <item>Clumsy</item>
+        <item>Graceless</item>
+        <item>Uncoordinated</item>
+        <item>Ungainly</item>
+    </string-array>
+
+    <string-array name="feature_dexterity_9_12">
+        <item></item>
+    </string-array>
+
+    <string-array name="feature_dexterity_13_16">
+        <item>Agile</item>
+        <item>Deft</item>
+        <item>Lithe</item>
+        <item>Nimble</item>
+        <item>Quick footed</item>
+        <item>Slick</item>
+    </string-array>
+
+    <string-array name="feature_dexterity_17_18">
+        <item>Acrobatic</item>
+        <item>Quick</item>
+        <item>Razor sharp</item>
+    </string-array>
+
+    <string-array name="feature_intelligence_3_4">
+        <item>Foolish</item>
+        <item>Imbecilic</item>
+        <item>Stupid</item>
+        <item>Vacuous</item>
+    </string-array>
+
+    <string-array name="feature_intelligence_5_8">
+        <item>Ignorant</item>
+        <item>Oblivious</item>
+        <item>Obtuse</item>
+        <item>Shallow</item>
+        <item>Slow</item>
+    </string-array>
+
+    <string-array name="feature_intelligence_9_12">
+        <item></item>
+    </string-array>
+
+    <string-array name="feature_intelligence_13_16">
+        <item>Astute</item>
+        <item>Canny</item>
+        <item>Crafty</item>
+        <item>Cunning</item>
+        <item>Ingenious</item>
+        <item>Perceptive</item>
+        <item>Quick witted</item>
+        <item>Sharp</item>
+    </string-array>
+
+    <string-array name="feature_intelligence_17_18">
+        <item>Brilliant</item>
+        <item>Genius</item>
+    </string-array>
+
+    <string-array name="feature_power_3_4">
+        <item>Craven</item>
+        <item>Depressed</item>
+        <item>Spineless</item>
+    </string-array>
+
+    <string-array name="feature_power_5_8">
+        <item>Gloomy</item>
+        <item>Low spirited</item>
+        <item>Meek</item>
+        <item>Nervous</item>
+        <item>Pessimistic</item>
+        <item>Tense</item>
+        <item>Timid</item>
+    </string-array>
+
+    <string-array name="feature_power_9_12">
+        <item></item>
+    </string-array>
+
+    <string-array name="feature_power_13_16">
+        <item>Brave</item>
+        <item>Calm</item>
+        <item>Forbearing</item>
+        <item>Stoic</item>
+        <item>Strong-willed</item>
+        <item>Unflinching</item>
+    </string-array>
+
+    <string-array name="feature_power_17_18">
+        <item>Imperturbable</item>
+        <item>Indomitable</item>
+    </string-array>
+
+    <string-array name="feature_strength_3_4">
+        <item>Delicate</item>
+        <item>Feeble</item>
+        <item>Wasted</item>
+    </string-array>
+
+    <string-array name="feature_strength_5_8">
+        <item>Puny</item>
+        <item>Weak</item>
+    </string-array>
+
+    <string-array name="feature_strength_9_12">
+        <item></item>
+    </string-array>
+
+    <string-array name="feature_strength_13_16">
+        <item>Brawny</item>
+        <item>Muscular</item>
+        <item>Powerful</item>
+        <item>Sturdy</item>
+        <item>Tough</item>
+    </string-array>
+
+    <string-array name="feature_strength_17_18">
+        <item>Huge</item>
+        <item>Musclebound</item>
+        <item>Strapping</item>
+    </string-array>
+
+</resources>

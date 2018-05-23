@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="stat_set_1">
+        <item>13</item>
+        <item>13</item>
+        <item>12</item>
+        <item>12</item>
+        <item>11</item>
+        <item>11</item>
+    </integer-array>
+
+    <integer-array name="stat_set_2">
+        <item>15</item>
+        <item>14</item>
+        <item>12</item>
+        <item>11</item>
+        <item>10</item>
+        <item>10</item>
+    </integer-array>
+
+    <integer-array name="stat_set_3">
+        <item>17</item>
+        <item>14</item>
+        <item>12</item>
+        <item>10</item>
+        <item>10</item>
+        <item>9</item>
+    </integer-array>
+</resources>

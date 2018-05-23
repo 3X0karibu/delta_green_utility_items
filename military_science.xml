@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="military_science_weaponry">Weaponry</string>
+    <string name="military_science_armour">Armour</string>
+    <string name="military_science_artillery">Artillery</string>
+    <string name="military_science_fortification">Fortification</string>
+    <string name="military_science_martial_arts">Martial arts</string>
+    <string name="military_science_vehicles">Vehicles</string>
+    <string name="military_science_aviation">Aviation</string>
+    <string name="military_science_communications">Communications</string>
+    <string name="military_science_robots">Robots</string>
+    <string name="military_science_planning">Planning</string>
+    <string name="military_science_organization">Organization</string>
+    <string name="military_science_munitions">Munitions</string>
+    <string name="military_science_naval">Naval</string>
+    <string name="military_science_land">Land</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bond_individual_spouse">Spouse (individual)</string>
+    <string name="bond_individual_ex_spouse">Ex-spouse (individual)</string>
+    <string name="bond_individual_son">Son (individual)</string>
+    <string name="bond_individual_daughter">Daughter (individual)</string>
+    <string name="bond_individual_parent">Parent (individual)</string>
+    <string name="bond_individual_grand_parent">Grandparent (individual)</string>
+    <string name="bond_individual_coworker">Coworker (individual)</string>
+    <string name="bond_individual_partner">Partner (individual)</string>
+    <string name="bond_individual_psychologist">Psychologist (individual)</string>
+    <string name="bond_individual_therapist">Therapist (individual)</string>
+    <string name="bond_group_spouse_and_children">Spouse and children (group)</string>
+    <string name="bond_group_parents">Parents (group)</string>
+    <string name="bond_group_siblings">Siblings (group)</string>
+    <string name="bond_group_colleagues_in_an_intense_job">Colleagues in an intense job (group)</string>
+    <string name="bond_group_church">Church (group)</string>
+    <string name="bond_group_support_group">Support group (group)</string>
+    <string name="bond_group_survivors_of_a_shared_trauma">Survivors of a shared trauma (group)</string>
+</resources>

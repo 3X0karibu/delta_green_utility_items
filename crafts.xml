@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="craft_electrician">Electrician</string>
+    <string name="craft_mechanic">Mechanic</string>
+    <string name="craft_microelectronics">Microelectronics</string>
+    <string name="craft_locksmithing">Locksmithing</string>
+    <string name="craft_glass">Glass</string>
+    <string name="craft_porcelain">Porcelain</string>
+    <string name="craft_stoneware">Stoneware</string>
+    <string name="craft_pottery">Pottery</string>
+    <string name="craft_spinning">Spinning</string>
+    <string name="craft_weaving">Weaving</string>
+    <string name="craft_leatherwork">Leatherwork</string>
+    <string name="craft_papercraft">Papercraft</string>
+    <string name="craft_woodcraft">Woodcraft</string>
+    <string name="craft_carpentry">Carpentry</string>
+    <string name="craft_stone_carving">Stone carving</string>
+    <string name="craft_stonecraft">Stonecraft</string>
+    <string name="craft_metalsmith">Metalsmith</string>
+    <string name="craft_weaponsmith">Weaponsmith</string>
+    <string name="craft_jewellry">Jewellry</string>
+    <string name="craft_watchmaking">Watchmaking</string>
+    <string name="craft_mining">Mining</string>
+    <string name="craft_animal_training">Animal training</string>
+    <string name="craft_farming">Farming</string>
+    <string name="craft_brewing">Brewing</string>
+    <string name="craft_cooking">Cooking</string>
+    <string name="craft_tanning">Tanning</string>
+    <string name="craft_fishing">Fishing</string>
+    <string name="craft_armoring">Armoring</string>
+    <string name="craft_bookbinding">Book binding</string>
+    <string name="craft_architecture">Architecture</string>
+
+    <string name="craft_custom">Custom</string>
+</resources>

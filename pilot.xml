@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pilot_fixed_wing">Fixedwing</string>
+    <string name="pilot_jet">Jet</string>
+    <string name="pilot_rotary">Rotary</string>
+
+    <string name="pilot_sail">Sail</string>
+    <string name="pilot_merchant_ship">Merchant ship</string>
+    <string name="pilot_cargo_ship">Cargo ship</string>
+    <string name="pilot_passenger_ship">Passenger ship</string>
+    <string name="pilot_battleship">Battleship</string>
+    <string name="pilot_motorboat">Motorboat</string>
+
+    <string name="pilot_space">Space</string>
+</resources>

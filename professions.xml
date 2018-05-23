@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profession_archetype_all">All</string>
+    <string name="profession_archetype_agent">Agent</string>
+    <string name="profession_archetype_specialist">Specialist</string>
+    <string name="profession_type_agent_special_agents_and_police">Special Agents &amp; Police</string>
+    <string name="profession_type_agent_swat_and_special_operators">SWAT &amp; Special Operators</string>
+    <string name="profession_type_agent_other_military">Other military</string>
+    <string name="profession_type_agent_intelligence_case_officers">Intelligence Case Officers</string>
+    <string name="profession_type_agent_others">Others</string>
+    <string name="profession_type_specialist_humanities_and_media">Humanities &amp; Media</string>
+    <string name="profession_type_specialist_science_and_technology">Science &amp; Technology</string>
+    <string name="profession_type_specialist_medical">Medical</string>-
+    <string name="profession_type_specialist_pilots_and_sailors">Pilots &amp; Sailors</string>
+    <string name="profession_type_specialist_bureaucrats_and_diplomats">Bureaucrats &amp; diplomats</string>
+    <string name="profession_type_specialist_intelligence_analysts">Intelligence analysts</string>
+    <string name="profession_anthropologist">Anthropologist</string>
+    <string name="profession_business_executive">Business Executive</string>
+    <string name="profession_computer_science">Computer Science</string>
+    <string name="profession_criminal">Criminal</string>
+    <string name="profession_engineer">Engineer</string>
+    <string name="profession_federal_agent">Federal Agent</string>
+    <string name="profession_firefighter">Firefighter</string>
+    <string name="profession_foreign_service_officer">Foreign Service Officer</string>
+    <string name="profession_historian">Historian</string>
+    <string name="profession_intelligence_analyst">Intelligence Analyst</string>
+    <string name="profession_intelligence_case_officer">Intelligence Case Officer</string>
+    <string name="profession_lawyer">Lawyer</string>
+    <string name="profession_marine">Marine</string>
+    <string name="profession_media_specialist">Media Specialist</string>
+    <string name="profession_nurse">Nurse</string>
+    <string name="profession_paramedic">Paramedic</string>
+    <string name="profession_physician">Physician</string>
+    <string name="profession_pilot">Pilot</string>
+    <string name="profession_police_officer">Police Officer</string>
+    <string name="profession_program_manager">Program Manager</string>
+    <string name="profession_sailor">Sailor</string>
+    <string name="profession_scientist">Scientist</string>
+    <string name="profession_soldier">Soldier</string>
+    <string name="profession_special_operator">Special Operator</string>
+
+    <!--extra player handbook professions-->
+    <string name="profession_fbi_cid">FBI CID</string>
+    <string name="profession_dea_operations">DEA Operations</string>
+    <string name="profession_ice_hsi">ICE HSI</string>
+    <string name="profession_ice_removal_division">ICE Removal Division</string>
+    <string name="profession_usms_investigative_operations">USMS Investigative Operations</string>
+    <string name="profession_us_navy_ncis">US Navy NCIS</string>
+    <string name="profession_dept_of_state_bureau_of_diplomatic_security">Dept. Of State Bureau of Diplomatic Security</string>
+    <string name="profession_eap_office_of_criminal_enforcement_forensics_and_training">EPA Office of Criminal Enforcement, Forensics and Training</string>
+    <string name="profession_fbi_national_security_branch">FBI National Security Branch</string>
+
+    <string name="profession_cia_sad_sog">CIA SAD/SOG</string>
+    <string name="profession_dea_fast">DEA FAST</string>
+    <string name="profession_fbi_hrt_swat">FBI HRT/SWAT</string>
+    <string name="profession_ice_special_response_team">ICE Special Response Team</string>
+    <string name="profession_usaf_24_special_operations_wing">USAF 24th Special Operations Wing/720th Special Tactics Group</string>
+    <string name="profession_us_army_1_special_force_group">U.S. Army 1st Special Force Group</string>
+    <string name="profession_us_army_75_ranger_regiment">U.S. Army 75th Ranger Regiment</string>
+    <string name="profession_us_army_isa">U.S. Army ISA</string>
+    <string name="profession_usmc_forecon">USMC FORECON</string>
+    <string name="profession_usmc_maritime_special_purpose_force">USMC Maritime Special Purpose Force</string>
+    <string name="profession_usmc_raider_regiment">USMC Raider Regiment</string>
+    <string name="profession_usmg_sog">USMG SOG</string>
+    <string name="profession_us_navy_devgru_seals">U.S. Navy DEVGRU/SEALs</string>
+
+    <string name="profession_us_army_1st_brigade_1st_cavalry">U.S. Army 1st Brigade/1st Cavalry</string>
+    <string name="profession_us_army_4_mist">U.S. Army 4th MIST</string>
+    <string name="profession_us_army_10_mountain_division">U.S. Army 10th Mountain Division</string>
+    <string name="profession_us_army_902_military_intelligence">U.S. Army 902nd Military Intelligence</string>
+    <string name="profession_usmc_combat_camera">USMC Combat Camera</string>
+    <string name="profession_usmc_security_force_regiment">USMC Security Force Regiment</string>
+    <string name="profession_us_navy_eod">U.S. Navy EOD</string>
+
+    <string name="profession_cia_clandestine_service">CIA Clandestine Service</string>
+    <string name="profession_cia_sad_pag">CIA SAD/PAG</string>
+    <string name="profession_fbi_directorate_of_intelligence">FBI Directorate of Intelligence</string>
+    <string name="profession_fbi_intelligence_and_operations_support_ico">FBI Intelligence and Operations Support</string>
+    <string name="profession_fbi_national_security_branch_ico">FBI National Security Branch</string>
+
+    <string name="profession_cdc_office_of_public_health_scientific_services_media">CDC Office of Public Health Scientific Services</string>
+    <string name="profession_dea_operational_support_media">DEA Operational Support</string>
+    <string name="profession_dept_of_state_intelligence_and_research_media">Dept. of State Intelligence and Research</string>
+    <string name="profession_ice_hsi_intelligence">ICE HSI/Intelligence</string>
+
+    <string name="profession_cdc_emergence_operations_center_science">CDC Emergence Operations Center</string>
+    <string name="profession_cdc_office_of_public_health_preparadness_and_response_science">CDC Office of Public Health Preparadness and Response</string>
+    <string name="profession_cdc_office_of_public_health_scientific_services_science">CDC Office of Public Health Scientific Services</string>
+    <string name="profession_dea_operational_support_science">DEA Operational Support</string>
+    <string name="profession_dea_special_operations_division">DEA Special Operations Division</string>
+    <string name="profession_epa_regional_office_specialist">EPA Regional Office Specialist</string>
+    <string name="profession_fbi_intelligence_and_operations_support_science">FBI Intelligence and Operations Support</string>
+    <string name="profession_public_health_service_commissioned_corps_science">Public Health Service Commissioned Corps</string>
+    <string name="profession_usaf_70th_intelligence_survelliance_and_reconnaisance">USAF 70th Intelligence, Survelliance and Reconnaisance</string>
+    <string name="profession_usaf_318th_cyberspace_operations">USAF 318th Cyberspace Operations</string>
+    <string name="profession_usamrid">USAMRID</string>
+
+    <string name="profession_cdc_emergence_operations_center_medical">CDC Emergence Operations Center</string>
+    <string name="profession_cdc_office_of_public_health_preparadness_and_response_medical">CDC Office of Public Health Preparadness and Response</string>
+    <string name="profession_cdc_office_of_public_health_scientific_services_medical">CDC Office of Public Health Scientific Services</string>
+    <string name="profession_public_health_service_commissioned_corps_medical">Public Health Service Commissioned Corps</string>
+    <string name="profession_us_army_medical_corps">U.S. Army Medical Corps</string>
+    <string name="profession_us_navy_hospital_corps">U.S. Navy Hospital Corps</string>
+
+    <string name="profession_usaf_41st_rescue_squadron">USAF 41st Rescue Squadron</string>
+    <string name="profession_usaf_45st_fighter_squadron">USAF 45st Figther Squadron</string>
+    <string name="profession_usaf_432nd_operations">USAF 432nd Operations</string>
+    <string name="profession_us_army_160th_special_operations_aviation">U.S. Army 160th Special Operations Aviation</string>
+
+    <string name="profession_cdc_emergence_operations_center_bureaucrats">CDC Emergence Operations Center</string>
+    <string name="profession_cdc_office_of_public_health_preparadness_and_response_bureaucrats">CDC Office of Public Health Preparadness and Response</string>
+    <string name="profession_dea_operational_support_bureaucrats">DEA Operational Support</string>
+    <string name="profession_dept_of_state_intelligence_and_research_bureaucrats">Dept. of State Intelligence and Research</string>
+    <string name="profession_dept_of_state_inl">Dept. of State INL</string>
+    <string name="profession_dept_of_state_wha">Dept. of State WHA</string>
+    <string name="profession_diplomatic_courier_service">Diplomatic Courier Service</string>
+
+    <string name="profession_cia_directorate_of_analysis">CIA Directorate of Analysis</string>
+    <string name="profession_dept_of_state_intelligence_and_research_intel">Dept. of State Intelligence and Research</string>
+    <string name="profession_fbi_directorate_of_intelligence_intel">FBI Directorate of Intelligence</string>
+    <string name="profession_fbi_national_security_intel">FBI National Security</string>
+    <string name="profession_ice_hsi_intelligence_intel">ICE HSI/Intelligence</string>
+    <string name="profession_usaf_70th_intelligence_survelliance_and_reconnaisance_intel">USAF 70th Intelligence, Survelliance and Reconnaisance</string>
+    <string name="profession_usaf_614th_air_and_space_operations_intel">USAF 614th Air and Space Operations</string>
+
+</resources>

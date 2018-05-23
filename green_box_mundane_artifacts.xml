@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="green_box_mundane_artifacts">
+        <item>An ivory chess set.</item>
+        <item>A dusty and unwashed Staffordshire bone china tea-set. Its teak monogrammed ("Dr. M.S.A") tea-chest contains the desiccated husk of a large and unidentifiable insect.</item>
+        <item>The wall is adorned with an eye-catching red scroll, replete with elegant flourishes and gold Traditional Chinese calligraphy. It reads: "Lord of Magnificent Beard"</item>
+        <item>One Eton FR300 emergency radio, with a hand-crank power generator, built-in flashlight, emergency siren and cell-phone charger.</item>
+        <item>Three prison jumpsuits from the local penitentiary. One has a length of sharpened wire run down the inside seam of the left arm.</item>
+        <item>A dusty model of a church in a dusty glass display case. A yellowed, typewritten label within the case reads: "Model of St. Stephen\'s Church, Coxham. Presented by J. Merewether, Esq., of Ilbridge House, 1877. The work of his ancestor James Merewether, d.. 1786."</item>
+        <item>A large collection of polished black paratrooper boots, ranging in both men\'s and women\'s sizes from 8 to 14.</item>
+        <item>Footlocker:6 wool blankets, sheets, and air pillows. 1d6 rolls of wool socks.</item>
+        <item>A 7.62x51mm bullet removed from its brass casing and strung on a necklace. A Military Science roll will indicate this to be a \'hog\'s tooth\', which, according to sniper culture, is a bullet taken from the magazine of an enemy marksman whom a sniper shot in self-defense.</item>
+        <item>A locker full of decades old GI JOE action figures, mint condition, original packaging.</item>
+        <item>A sturdy violin case. Suitable for carrying stringed instruments, packed-lunches, and full-automatic small arms.</item>
+        <item>A payphone, one of the last models made before the telephone companies started pulling them all down because nobody really uses them anymore. This one\'s bears NYNEX labels and appears to have been roughly pulled from its mount by a large motor vehicle judging by the damage (and license plate partially wrapped around its body).</item>
+        <item>a half-empty box of Taiwanese allergy medication.</item>
+        <item>1 Roll of 60\' of Nylon Webbing, plus nylon thread and needle.</item>
+        <item>A shoe box full of aluminum forks, with a note on the side: "Use Against Crawling Chaos".</item>
+        <item>A metal barrel painted bright yellow and covered in a number of different warning labels, none of them in language the investigators can understand or recognize. The seal is starting to corrode and it looks like it might break any day now.</item>
+        <item>A Vespa ET4 motor scooter, tricked-out with dozens of mirrors and fluorescent pink paintwork. The keys are taped to the seat and the tank is half full.</item>
+        <item>A Nippondenso alternator for a Toyota MR2 sports car.</item>
+        <item>A functional 1/4 scale model single cylinder, simple expansion, double acting steam engine.</item>
+        <item>Scale model of a Northrup F-5E fighter plane, with Mexican Air Force markings.</item>
+        <item>2 new 5-gallon plastic gasoline containers</item>
+        <item>A paperback book: "The Truth Behind Men In Black - Government Agents or Visitors from Beyond" by Jenny Randles.</item>
+        <item>Kenwood TH-F6A compact handheld triband radio. Transmits in the 144, 200 and 440 amateur bands and has dual channel receive capability and even has a special ten channel weather station mode. Comes with a spare Lithium Ion 2000 mAh battery, 120 VAC adapter, belt clip and single high-performance SMA antenna.</item>
+        <item>A small cardboard office crate completely filled with handwritten documents of all sorts; tax papers, a police complaint form, invoices, rental agreements, and all other sorts of official papers. They are all in a single hand, and it can be gleaned from the documents that it all belongs to a Douglas Clayton of Fort Lauderdale, Florida.\nAt the top of the pile is a suicide note, which is written in a painstakingly detailed duplication of Mr. Clayton\'s handwriting. An Idea roll will suggest this piece of paper was the reason for all the others to be collected.</item>
+        <item>A doctor\'s leather medical bag. Inside are enough listening devices and wiretaps to bug every room and phone in a small mansion. An expert in surveillance can identify them as being of several types used by the FBI from 1985 to 2000.</item>
+        <item>A set of specialized snow tires for a Jeep.</item>
+        <item>A set of three home-made yagi antennae, designed for triangulating radio transmissions. Each is made of commonly available parts and they are about the size of a coat-hanger. Their batteries need to be replaced and there are no instructions.</item>
+        <item>Blackhawk Night Ops Gladius LED tactical flashlight.</item>
+        <item>A crowbar, sledgehammer, hacksaw, and hatchet, sloppily bundled together with parachute cord. An attached note reads "Easy In, Easy Out".</item>
+        <item>Remington 870 police magnum 12 gauge shotgun with 50 rounds of 12 gauge 00 buckshot</item>
+        <item>A 3" diameter wooden sphere, painted scarlet. Much of the paint has rubbed off with wear.</item>
+        <item>A roughly-made key, which according to the tag attached is a copy of the Phenom-X studio\'s master key.</item>
+        <item>A light-blue 1960 Vespa 400 two-seater rear-engined microcar in working condition with a full tank of gas. (Has a top speed of 50 to 55 mph).</item>
+        <item>Signet ring in 10 carat gold. A lion is formed from three initials: BCH.</item>
+        <item>A paperback book: Harry Potter and the Chamber of Secrets</item>
+        <item>Camelbak M.U.L.E. 100-oz hydration pack.</item>
+        <item>An unopened box of Samporena Extra clove cigarettes. Possibly the last pack of them on Earth.</item>
+        <item>A beige 2009 Toyota Camry LE, unremarkable in every way except for the privacy tinted windows. It has 35320 miles on the odometer, and is in good condition. Tracing the VIN shows it is titled to a local car rental agency, but oddly, it has never been reported stolen. The license plate and registration are up to date.</item>
+        <item>A small tan and brown tacklebox containing a full set of locksmith\'s tools.</item>
+        <item>A Garmin eTrex 10 handheld GPS unit.</item>
+        <item>A Datacard SR5700 ID card printer.</item>
+        <item>One Energizer LED headlamp with six spare AAA batteries.</item>
+        <item>A wooden Jacob\'s Ladder toy. The threading is nylon.</item>
+        <item>A kilo block of cocaine wrapped in dried banana leaves and cellophane.</item>
+        <item>A file cabinet amassing a collection of thousands of coroners\' reports, emergency room medical records, and personal interviews concerning strange electrical burns. From the included commentary, these are attributed to spiritual or psychic disturbance. The collection covers a span of 12 years of cases in the continental U.S. and Canada.</item>
+        <item>A "One Man Battering Ram" 30-inch battering ram manufactured by Fire Hooks Unlimited - and well used from the looks of it.</item>
+        <item>A Motorola NFL headset with the Minnesota Vikings insignia on the side.</item>
+        <item>A large snowglobe featuring the Taj Mahal in the center. If disassembled, the base is revealed to have a cutting-edge battery-powered bug implanted in it, but it would take some very careful analysis to discover.\nThe receiver, a short-range model with around a two-mile range considering both it and the bug\'s transmitter, is also present. It is disguised as a scratched-up CD stereo. A sticky note tucked inside the stereo\'s CD tray sums up how to use the bug and receiver.</item>
+        <item>3 empty biohazard containers</item>
+        <item>A shofar.</item>
+        <item>A spare tire for a late model Ford Mercury.</item>
+        <item>Magpul Field Case containing a black 16gb iPhone 4.</item>
+        <item>A CD containing a single video file. The file is the full Zapruder film, frequently freeze-framing at the standard key points while a droning voice lectures on various JFK conspiracy theories.</item>
+        <item>Maps of the locale. Up to Keeper if the map is hiding anything or marks any relevant locations.</item>
+        <item>Three expended RPG-18 tubes; sadly, this weapon being a close copy of the M72 LAW, they are not re-loadable and thus more or less just curiosities.</item>
+        <item>A Norinco Type 54 Model 213B 9x19mm pistol; a Chinese made copy of a Tokarev TT-33 with molded grips. The pistol is fully loaded with a 14 -round magazine and rests in a belt holster that appears to be a custom, handmade job.</item>
+        <item>Buffalo Tools Sportsman dual burner gas camping stove.</item>
+        <item>A box containing dozens of auto-inflating life-jackets, of the type used on airplanes and cruise ships.</item>
+        <item>Four homemade 2\' bang sticks sealed in a heavy strength garbage bag with duct tape. They are chambered for .357 Magnum shells (and smell like they have been used), although there are no rounds present. Three unopened bottles of nail polish (black, neon green, and fuschia) are also taped to the bundle; with an appropriate roll an agent realizes that applying this to ammunition would allow the weapons to function underwater.</item>
+        <item>Eight 9\'x12\' drop cloths.</item>
+        <item>A metal canister containing a film reel, 69 minutes in length, of the silent movie "London After Midnight" in its entirety. The film has been considered lost since the 1967 MGM Vault Fire.</item>
+        <item>A Tasty Waffle</item>
+        <item>An ATN NV360 3x night vision monocular.</item>
+        <item>A small cardboard box with "FED KIT" written on the lid in Sharpie. Inside are four clear earwig sets, four matching pairs of dark sunglasses, and four official-looking badges on official-looking leather belt carriers.\nHowever, the badges actually just bear a generic shield logo on them, and just say "SPECIAL AGENT" in intentionally hard-to-read font. Inside the box is a few pages of prop inventory lists from an off-Broadway theater, from which this box was apparently stolen.</item>
+        <item>Wall-sized poster showing technical drawings of the International Space Station; so technical, in fact, that this information is most likely restricted.</item>
+        <item>A locked brushed aluminum briefcase (Open Locks 15% to pick, or use a gun) containing the following items:\n-A bill of sale for a Dragon Eye Unmanned Aerial Vehicle, allowing for delivery DDU at a time and place to be specified by the buyer. On its face is a Post-It with a corporate e-mail address written down and the phrase "36 hours."\n-An End User Certificate for the UAV, issued in the name of the Filipino government. The shipping agent is listed as "Emerald-Delta, Inc." Characters with military contacts are unable to confirm that the sale of this technology to other countries has been approved.\n-A CD-R containing generic corporate software in the name of Emerald-Delta, Inc., including articles of incorporation, a transcript of corporate minutes authorizing it to ship a Dragon Eye UAV to the Philipines, and a certificate of authority with a space for one or more names for agents to act in the company?s name. A search of corporations in the state does not turn up one with this name. If the corporation is registered correctly in the local jurisdiction, and a request made via email to deliver the UAV, the cell may attempt to obtain the drone complete with piloting system and video capability. The only other requirement is the capability to pay $75,000 upon delivery.</item>
+        <item>A large cardboard box containing a 32kb version model 5100 IBM computer. The box has a little wear on it and looks as if it has been opened once. The contents of the box are in mint condition.</item>
+        <item>A normal dog crate. The interior walls have been modified with the addition of chicken wire which is connected to a power circuit, allowing the interior of the cage to be electrified.</item>
+        <item>Spyderco Dragonfly VG10 folding knife.</item>
+        <item>An "emergency departure envelope" containing US$1,500 in sequential 1974 bills. The name on the envelope is for a CIA case-officer evacuated from the Saigon Embassy during the fall of Vietnam in 1975.</item>
+        <item>A blank DVD case containing a plastic baggie full of reddish-brown ecstasy tablets. Each tablet has a Bacardi Bat logo on the front, and if tested are found to be heavily cut with a potent mix of sugar, brick-dust and rat poison.</item>
+        <item>A small infant wrapped in a bathtowel, he has been missing for six weeks according to the police he was kidnapped from a local pacifistic Tcho-Tcho community by a paranoid but informed biggot...</item>
+        <item>An opened package of birth control pills. Fourteen pills have been used.</item>
+        <item>A rape kit (as used by rapists), includes: duct-tape, ball-gag, hammer, lockpicks, small digital camera, black gloves, and a straight razor with shaving foam.</item>
+        <item>A silver 2003 Chevrolet Malibu with expired 2004 Washington state tags. The bodywork is badly crumpled and there is nothing left of the windshield or rear window but ragged bits of safety glass. Bullet holes riddle it. If the plates or VIN are checked, it was reported stolen. The trunk contains an appropriate assortment of greenbox items.</item>
+        <item>3 shovels and 2 picks.</item>
+        <item>Pair of adjustable aluminum underarm crutches.</item>
+        <item>A particularly hideous stone statue of the Aztec god Xochipilli, deity of beauty, dance, fun, and psychoactive drugs. Manufactured in Mexico City, c.1975.</item>
+        <item>A set of Yukon Optics 3.5x40 Tracker RX Night Vision binoculars</item>
+        <item>A burlap sack containing $50,000 in shredded, blue-dye stained banknotes.</item>
+        <item>A soldering iron.</item>
+        <item>A VHS tape containing a video taken from a harbor security camera. The tape is unlabelled, and if played the only lcues as to its location are that various technical readouts in the corners of the screen are labelled in Cyrillic abbreviations.\nIt portrays what appears to be a black market face-to-face exchange, with a large quantity of armed men on both sides. A man in a suit approaches the middle, opening the obligatory aluminum briefcase filled with banknotes, and a man on the other side gestures to someone out-of-frame. Several duffel bags are brought forward and then unzipped; it\'s hard to tell, but it seems they contain easily two dozen bulletproof vests.\NWhat appears to be a heated argument starts (there is no audio, of course), and seems to culminate with a \'volunteer\' donning one of the vests and being shot in the chest to testit. It doesn\'t work, and a firefight ensues. Both sides are massacred, and only a few survivors make it out.\nNothing happens for about twenty minutes; then two men in uniforms (Russian militsiya uniforms, should anyone be familiar with them) arrive, evidently inspecting the scene. After looking around shiftily (and not noticing the camera), the officers set to work collecting the guns, vests, and money, and then exit.</item>
+        <item>A small section of persevered human skin, tattooed with an unusual symbol.</item>
+        <item>A brightly colored children\'s pencil case with some odd lumps in it. The pencil case contains six vials of injectable medication (22% concentration): two of pancuronium bromide, two of sodium thiopental, and two of potassium chloride. The pencil case also contains six syringes and a handful of single-use alcohol swabs.</item>
+        <item>A (seemingly) factory-sealed package of Trojan condoms. Picking it up, one realizes it is slightly heavier than expected, and opening it reveals it is from six .357 Magnum rounds carefully placed between the wrappers to avoid rattling.</item>
+        <item>A very professional home-made "identity forgery" kit, complete with razors, scissors, glues, a laminator, mock-ups of different ID cards (security companies, public services, media, fictitious companies) and a handy photocopied manual on how to begin.</item>
+        <item>A large and unlabelled cardboard box. Inside is a roll of some 10,000 hand-rolled firecrackers - all of 1970s Macau-manufacture. Though somewhat moldy, at least half are liable to go off if the roll\'s lit.</item>
+        <item>A geological sample of soil, apparently un-analyzed. Should the curiosity of the PCs get the better of them, any analysis run will find it consistent with soil in the eastern Appalachians, though bearing high levels of lead contamination dating back at least a century.</item>
+        <item>An up-to-date recent model laptop, pre-installed with key-logger, screen-capture software, and a "back-door" for outside control. All information is subsequently forwarded to a secure Delta Green server at the NSA\'s headquarters at Fort Meade.</item>
+        <item>A paper bag containing 8 home made caltrops. Made of pieces of sharpened rebar, welded together such that when dropped on the ground one point is always pointing upward. If one is placed in front of the tire on a vehicle it is a virtual certainty that the tire will be destroyed and instantly flattened by running over it.</item>
+        <item>An entire five-gallon bucket full of uniform patches from all the different branches of the U.S. military; many have Velcro backings for use on with the branches\' newer uniforms.</item>
+        <item>A skeleton-key for most pre-2005 General Motor cars. It\'ll also open the doors on mid-90s BMWs but it can\'t start the engine.</item>
+        <item>A very (some would say absurdly) large ring of keys - more like a climbing carabiner strung with smaller carabiners, each of which contains 15-20 brass keys fitting different makes and models of door locks. Closer examination shows that each key\'s teeth has been filed down to the lowest possible setting while remaining workable. This is a locksport enthusiast\'s bump key collection - keys that, when inserted into a lock\'s keyway and rapped just right with a sturdy object (like a hammer) the laws of physics will cause the pins in the tumbler to pop upward, simulating being pushed with a matching key. These keys work along the same principle as a cobra pick or lock gun, but require more finesse and practice to learn how to use properly.</item>
+        <item>A Beretta 84F .380 pistol in a pancake holster.</item>
+        <item>An opened package of Tampax tampons, four tampons remaining.</item>
+        <item>10 brown office envelopes tied with string. Each one has a magazine and a map inside. Each magazine is of a different wargame, with small counters all punched out and clipped with round edges.</item>
+        <item>3 SnugPak Sleeper Lite sleeping bags.</item>
+        <item>A life-like, but thankfully mock-up, M388 "Davy Crockett" nuclear projectile. The large "radiation" seal on the casing might still give the faint of heart a shock, though.</item>
+        <item>A yellowed label that reads \'Triton\' is hanging off a wooden case with an Enigma M4 WWII-era cipher machine inside.</item>
+        <item>Weber "Smoky Joe" charcoal grill (evidence of burned papers inside)</item>
+        <item>A Liberator .45ACP pistol. It looks brand new.</item>
+        <item>A large plastic bin, filled to the brim with VHS tapes. The tapes are labelled \'Security footage, US Embassy, Bucharest. 05/01/99-05/22/99". They provide a 24-hour-a-day account of the occurrences there, except for during a one-hour power outage around midnight on 05/20/99.</item>
+        <item>An awkward, unsorted jumble of automatic pistol parts lies in the center of the Green Box\'s floor. Should someone take at least half an hour to sift through them, they end up with two complete Browning Hi-Powers, a SIG P226, a Beretta Bobcat, most of a Walther P99, and a few parts from a WWII-era Nambu pistol. There are no bullets or magazines in the pile, except for a single .44 Magnum speedloader.</item>
+        <item>A duffel bag. Inside is a pair of wire cutters, a set of glass cutters and a handful of hair pins.</item>
+        <item>Shoebox containing 5 individually wrapped quick clot embedded sponges, an unmarked bottle of 12 white pills, 7 disposable syringes / needles in sterile packaging, shears, tweezers, one bottle of oxytetracycline, one bottle of tetanus-diphtheria vaccine and a hard rubber dog chew toy.</item>
+        <item>A laboratory tabletop centrifuge, used to separate substances.</item>
+        <item>A Lincoln Electric AC/DC arc welder.</item>
+        <item>A vintage silver-plated Dunhill Rollagas butane lighter.</item>
+        <item>A large wooden shipping crate filled with random mechanical parts, mixed together like mismatched sets of Legos tossed into the same box. Includes everything from wiring to engine parts.</item>
+        <item>A female LAPD officer\'s uniform (SIZ 10-12) in shrink-wrap. The inside label reveals it\'s from the clothing department of a popular TV show, but it otherwise passes for the real thing.</item>
+        <item>A desktop computer is set up in a corner of the greenbox. Booting it up reveals Office Word copies of e-mails sent back and forth between A Cell and Cell E.\nThe e-mails end with A Cell ordering E Cell to do something horrible. San Loss: 1/1d2 (0/1 if the player cell is use to such things).</item>
+        <item>Two plastic-wrapped twin mattresses</item>
+        <item>A five-pound bag of sea salt.</item>
+        <item>A male LAPD sergeant\'s uniform (SIZ 11-13) in laundry shrink-wrap. The badge number is for a Hollywood Division narcotics officer who retired in 1979.</item>
+        <item>A single stuffed Dodo.</item>
+        <item>A key chain with a trio of keys, and the paperwork for wharf age of a sailing yacht tied up at the marina of a nearby large body of water. An uninitiated dupe makes sure the wharf dues are paid on time and the boat gets a perfunctory cleaning once in a while\nThe yacht can take five people at a pinch and has 1D3+2 Green Box items aboard. The boat\'s name? \'Nancy\'s Promise\'</item>
+        <item>An unopened cardboard box addressed to the Denver police department. Inside it is a kit for installing police lights and siren on an unmarked police car; it takes some tools and expertise, but any competent auto mechanic should be able to wire it up.</item>
+        <item>A solid stainless steel bar 20 cm long and 3 cm in diameter, engraved with a spiral groove on each end. An accompanying pamphlet states it to be a "spatial tuner" and describes a complex ritual for "attuning one to the infinity of multilayered existence". Keeper\'s fiat as to what effect, if any, this actually has.</item>
+        <item>Several pairs of cowboy boots. Anyone knowledgeable in the field would know that their brand, Lucchese, are the top of the line, and could sell for hundreds if not thousands of dollars.</item>
+        <item>Several standard lineman\'s handsets with alligator clip attachments. Standard 12-button DTMF keypad, selectable between pulse and tone dialing. Talk/monitor/mute switch. Bright orange, with a steel toolbelt hook.</item>
+        <item>1 silver nail-cutter with a small foldable blade attached.</item>
+        <item>An ancient but still functional refrigerator, probably from the 50s. Inside is an armor plated laptop of the kind typically used in environments where a standard shell is too fragile. Cosmetic damage in the form of scratches covers the surface, but the laptop functions fine and armor integrity remains stable. The laptop and OS are both several generations old. No data is present in it.</item>
+        <item>Three ready-packed travel-bags each containing the necessities: spare underwear, empty water-bottle, face-cloth, towel, toothbrush and paste, a zippo lighter (unfueled), $250 in used bills, and a box of M&amp;M candies.</item>
+        <item>A small pile of antique woodcarving tools; close examination reveals faded Cyrillic lettering, and an expert could date these to the time around the reign of Alexander II in the mid-19th century.</item>
+        <item>A stockpile of lightbulbs. Various sizes, styles and wattages to suit any occasion.</item>
+        <item>Spyderco Para 2 folding knife.</item>
+        <item>A 1984 Wayne Industries S-1700 school bus engine.</item>
+        <item>A collection of listening-tubes and coffin-alarms of the sort most often used during the mid 19th century when fears of being interred alive were rampant.</item>
+        <item>A pass-card, under the name Samuel Green, for a nearby Federal General Service Administration (GSA) vehicle garage. The GSA handles - among other things - the transportation needs of federal employees.</item>
+        <item>A five-gallon bucket with an airtight lid, filled with liquid of some sort; someone has spraypainted "DON\'T OPEN WITHOUT PROTECTION" on the side in neon pink letters. Beside it is a large trash can full of carefully-opened and emptied canisters of pepper spray. It shouldn\'t be too hard to put two and two together, although the logic behind it is somewhat more questionable.</item>
+        <item>1 belt (50 rounds) of INERT 7.62 NATO ammunition, as used for display and training purposes.</item>
+        <item>Average oil painting, worth about $10.\n(If anyone looks inside between the frame and picture matting, they will find $2000 in unmarked bills taped inside).</item>
+        <item>8 GB USB flash drive shaped like a key.</item>
+        <item>A dirty leather wallet stuffed with about US$4,000, though it comprises various denominations of national banknotes, including English and Scottish Pounds, Euros, Chinese Yuan, Brazilian Real, and Canadian dollars.</item>
+        <item>A three million candlepower handheld spotlight.</item>
+        <item>Eight cardboard boxes full of bootleg DVDs. Worth about $5,000 if sold.</item>
+        <item>A magic 8-ball.</item>
+        <item>A very nice suit, and considering it\'s owned by Delta Green, it\'s relatively free of bloodstains and/or bulletholes. It\'s tailored, so it will more or less only look good on a SIZ 15 male.</item>
+        <item>Two sets of pristine SCUBA gear, along with four full oxygen tanks, two wetsuits, two diving knives, and two pairs of diving masks and fins.</item>
+        <item>An unopened 50th-anniversary edition of Monopoly.</item>
+        <item>plastic shopping bag, filled with used tissues.</item>
+        <item>Assortment of board games. The boxes are scuffed and some of the pieces are missing.</item>
+        <item>A futon. It\'s not very comfortable.</item>
+        <item>Maui Jim Stingray sunglasses in a carrying case w/ cleaning cloth.</item>
+        <item>A cardboard box full of loose mousetraps. About one in four is already armed.</item>
+        <item>A lead sled, some sandbags, a set of Allen wrenches and screwdrivers, and a high-quality spotting scope; everything one would need to get a professional zero on a rifle scope, except an actual gun range at which to do it.</item>
+        <item>Wrapped up in a large green kerchief are an HDS Systems Clicky 120 lumen tactical LED flashlight, a Fisher Trekker Space Pen, an Arc-AAA Premium flashlight and a Leatherman Micra multitool.</item>
+        <item>Several coiled fire hoses, and a wrench of the sort used to attach them to hydrants. Lying next to them are three police riot helmets with clear plastic visors, as well as three gas masks and a couple of tear gas grenades.</item>
+        <item>2 cases of MREs ( 24 meals total ) with flameless heaters, 30 gallons of water in 5 gallon plastic containers with spigots, 2 coffee mugs, one propane camp stove with small ( 1lb ) propane cylinder ( full ), one teakettle, 5 pounds coffee, 1 single serving drip coffee filter holder with 100 filters.</item>
+        <item>A bootleg Hong Kong horror VCD with slightly ropey English subtitles: "Seeding of a Ghost"</item>
+        <item>One FLIR E40 Infrared Thermal Imaging Camera in a hard case along with a memory card, battery &amp; power supply, USB cable, Bluetooth adapter and FLIR Tools software.</item>
+        <item>Features a temperature range of -4 to 1202 degrees Farenheit, 2X continuous zoom, fixed picture-in-picture, voice comment recording, text annotation on images and a Hot/Cold spot marker that automatically finds the hottest and coldest spots. Images and data can be sent to mobile devices via WiFi connectivity.</item>
+        <item>Several standard, sterilized packages of surgical tools, of the kind used by military field hospitals.</item>
+        <item>An emergency radio, with battery power and a hand-crank back-up.</item>
+        <item>A Taiwanese-made imitation Glock 30 Airsoft pistol. About the same weight, look and feel of a Glock automatic, but firing 6mm metal pellets.</item>
+        <item>An Omega Seamaster watch.</item>
+        <item>An unused fire-extinguisher</item>
+        <item>A shotgun microphone</item>
+        <item>A sealed, opaque white envelope, 162 x229 mm. It contains a small drawing of the head and shoulders of a young man. The work is very finely executed and is clearly very old. Enquiries will reveal that the drawing (\'Head of a Young Nobleman\') was executed by a minor Florentine master in 1515, and that it was stolen from the Barber Institute in Birmingham England five months ago.\nIf a scan of the drawing is sent to Delta Green it will take a week for the above information to come back to the investigators. An investigator capable of learning to work with sources of information on stolen art can find the information in the same time - Keeper decides if anyone in the team could do this.\nContacting an honest, non-friendly art dealer about the picture ("Do you recognise this?") will attract the hostile interest of law enforcement agencies within three days if a large and prestigious auction house (or university department) is approached, or after 3-4 weeks if the investigators go to an independent dealer working far from a recognised centre of the art trade.\nnThe drawing will only realise $750 if offered to a non-specialist fence willing to buy it - its true value is $12 000. Most fences will not be interested in it at all. A dishonest dealer might pay $3-4000 - roll under average Luck of investigators to find a crooked dealer within a day\'s drive; need 2-5 weeks to find him / her.\nAll the above durations lengthen if the setting is before 1997.</item>
+        <item>A pair of glasses. The right lens is green and rectangular, whilst the left one is red and circular.</item>
+        <item>A pair of Bushnell Elite 8x42 binoculars in a custom molded case.</item>
+        <item>A half-empty bottle of Jameson whiskey.</item>
+        <item>A 4-foot by 6-foot rat maze. The base is made of half-inch plywood. The maze walls are made of quarter-inch plywood, and are 4 inches tall.</item>
+        <item>A hot-plate along with a small tea set; a few unopened boxes of Earl Grey, along with sugar and creamer, sit beside all of it on a card table.</item>
+        <item>a word-a-day calendar from 1989, opened to October 12th.</item>
+        <item>A six D-cell Mag-Lite. Red. This has an aftermarket accessory added; a side-handle is fitted just below the switch enabling it to be swung like a PR-24 baton. It also stops it from rolling off a table.</item>
+        <item>A brown leather briefcase, inside are half a dozen blue ballpoint pens and a recent issue of Car &amp; Driver magazine</item>
+        <item>Three press IDs that, due to their layout, conveniently exclude a location for a photograph. One is for the New York Times, one the Houston Chronicle, and one for USA Today. The names on each all happen to be equally viable for males and females.</item>
+        <item>A set of dumbbells.</item>
+        <item>3 folding chairs</item>
+        <item>Three men\'s uniforms (SIZ 13, SIZ 12, SIZ 10) for the local airport\'s security personnel, complete with radios, handcuffs, gear belts, etc.</item>
+        <item>1 4\' x 2\' folding table</item>
+        <item>A coat rack with two long trench coats hanging from it.</item>
+        <item>A small wireless mouse, with USB plug-in for use in computers.\nThe battery slot, taking a single AA battery, has been crammed full of tightly-rolled $100 bills, to a total of $1400.</item>
+        <item>A rusty pitchfork with three tines.</item>
+        <item>A wheelbarrow containing half a dozen large sacks of cement mix.</item>
+        <item>Several pieces of furniture (a coffee table, some chairs, a couch, a couple of end tables, etc.) wrapped in plastic and labeled "Legacy Pickman-Wright, 1/12/1969".</item>
+        <item>A hand-crank field telephone kit as used in the Vietnam War. Someone\'s stripped the receiver from the wires thereby turning it into an impromptu torture tool.</item>
+        <item>One arctic rated sleeping bag</item>
+        <item>A Fender Precision bass guitar, black with a maple neck.</item>
+        <item>Several sets of crampons (ice climbing boot spikes) sitting underneath a coiled length of rope. One pair has very definite bloodstains on them.</item>
+        <item>A pair of Nikon Monarch 5 12x42 All Terrain Binoculars.</item>
+        <item>Blue velvet cloth wrapping something. If the cloth is unwrapped it contains a gold medal, from the XIII Olympic Winter Games, held at Lake Placid in the USA in February 1980.</item>
+        <item>A 1950s-era firefighter\'s helmet, evidently from Chicago.</item>
+        <item>A shoebox filled to the brim with aerial and satellite reconnaissance photos from Operation Desert Storm. If examined in detail, it begins to become clear that no preternatural or Mythos-related phenomena appear in any of the photographs. However, the Keeper is encouraged to instill in the investigators the feeling that they must have missed something regardless.</item>
+        <item>Three pairs of military jump boots, of the type worn by paratroopers around World War II.</item>
+        <item>A rubber storage bin filled with a knotted pile of bloody tie-dye T-shirts. If taken out, it appears they were tied into an improvised rope for some reason.</item>
+        <item>One kettlebell, 24kg., black cast iron.</item>
+        <item>A large trauma bed, similar to the equipment used by ambulance personnel.</item>
+        <item>G-Shock solar powered watch</item>
+        <item>1 Busse Steelheart sheath knife with sheath and sharpening stone</item>
+        <item>Someone\'s holiday snaps of Singapore, mostly over-exposed. Otherwise mundane and very boring.</item>
+        <item>A Catholic priest\'s cassock, with clerical collar, crucifix, and other accoutrements.</item>
+        <item>Victorian-era vintage sterling silver cigarette case (Birmingham, 1894)</item>
+        <item>A cardboard box containing 2 wigs. One appears to be a man\'s, with medium length brown Caucasian hair. The other is light blonde and shoulder length. Both smell lightly of old sweat.</item>
+        <item>A crate containing four FN Herstal F2000 5.56mm bullpup assault rifles, with six magazines for each.</item>
+        <item>A commercial deep-freeze, stuffed to the brim with assorted ice cream bars and popsicles.</item>
+        <item>A fully loaded snub-nosed revolver with blood stains.</item>
+        <item>Five 3.5" floppy disks, unlabeled.</item>
+        <item>A VHS tape, labelled "Operation LOYAL HUSSAR".\nIf played, it shows a mountainous, desert landscape, apparently somewhere in Central Asia. The cameraman is evidently in a concealed sniper\'s nest of some kind, alongside two men with large anti-materiel rifles and two spotters. All of them wear khaki-colored fatigues with no distinguishing marks. The film suddenly jumps, and based on the movement of the sun, it\'s been a few hours. Along a dirt path, a military truck can be seen moving, about five hundred yards away. The spotters and snipers spring into action beside the cameraman, calculating range, estimating windspeed, etc., and then begin firing. The truck stops, and multiple figures with weapons climb out of the back. The snipers proceed to shoot them all, and after all movement has ceased, the cameraman and two of the men slowly and cautiously advance; the camera dips, and the cameraman\'s hand can be seen holding a large revolver.\nWhen the men reach the truck, the cameraman takes his time carefully filming the faces of the dead, all of whom are Caucasian men in uniforms the investigators don\'t recognize. Someone calls out \'Sir!\', the cameraman turns, and then holds a black-and-white photograph of a man next to one of the dead, and the photo is clearly a match. The cameraman (whose voice has never been heard so far) simply says, \'Boys, I think we just saved the world.\'\nThe tape abruptly ends at that point.</item>
+        <item>Half a kilo of uncut cocaine in a Tupperware box.</item>
+        <item>One large iron knife. Archaeology roll identifies as of Anglo-Saxon manufacture. A bone handle is new. The Ogham script cannot be deciphered.</item>
+        <item>A snow cone maker.</item>
+        <item>2 anatomically correct dolls (female &amp; male)</item>
+        <item>An envelope labelled: "Courtesy of your friendlies at the USMS" in sloppy capitals. Inside is a print-out of a number of state-wide addresses along with a stack of pass-cards. Each address is a safe-house for high-risk witness protection gigs, each featuring a panic-room, alarms and bullet-proof windows/doors.</item>
+        <item>A small packet. Opening it, one finds a worn, tiny cross on a chain, both silver and obviously very old. The cross is of the ancient Irish or Celtic design, rounded and with a circle in the center where the arms join.</item>
+        <item>One fire extinguisher (dry chemical), fully charged. The contents are normal except for the addition of a flourescent dye. Strip of masking tape placed on the side says "Mix 4".</item>
+        <item>A nice, if slightly stained and worn, brown leather recliner.</item>
+        <item>An old Boy Scouts compass.</item>
+        <item>A Buddhist shrine sits in the corner of the room. About the size of a shoe-box and made of laquered wood, the front is open to reveal three small Chinese cups (empty), a bowl of sand with incense-sticks protruding (half-burnt), and a figurine of Guan Yu in godly dress, armed with a moon-bladed halberd (yan yue dao). The blade itself is small but incredibly sharp; enough to lose a finger on if you start playing with it.</item>
+        <item>A shot glass filled to the top with gold and silver teeth. A sticky note affixed to the side reads,</item>
+        <item>"We figured they were worth something, but I doubt we can just walk into a pawn shop with \'em. You find somewhere to sell \'em, you can keep the dough. Love, B-Cell."</item>
+        <item>A rusted XM214 "Gatling gun" with deformed barrels due to overheating. It has two engraved encriptions: "Deus Omni Mundi" on the upper side and "Mundi Omni Deus" on the lower side.</item>
+        <item>A pair of AN/PVS-5B night vision goggles.</item>
+        <item>A mass of dirty crumpled receipts, and other scraps of paper from a couple years ago. The papers are clipped together in odd ways and organized. Apparently, some Delta Green agents were attempting to recreate this person\'s daily movements by rooting through their trash.</item>
+        <item>Based on the grocery receipts, this person purchased thirty pounds of dog food every two days.</item>
+        <item>Two empty wine-bottles. The corks are inside, and appear to be heavily burned.</item>
+        <item>An inflatable sleeping mattress.</item>
+        <item>A cheap, adult-sized coffin, made from heavy pressed card stock and with a faux stone finish.</item>
+        <item>A Yamaha PSR-47 keyboard</item>
+        <item>A 1948 vintage three-wheeled Silver King tractor, manufactured by the Fate-Root-Heath Company of Plymouth, Ohio.</item>
+        <item>Black &amp; Decker handheld drill and complete bit kit.</item>
+        <item>An extremely old-looking briefcase covered with dust, containing yellowed Pentagon impact hypotheses concerning the Soviet\'s development of the hydrogen bomb. Many of these are extremely pessimistic, predicting a Soviet first strike and urging that the US pre-empt this attack with their own. A History roll will alert the investigators that this happened in 1953, and thus the information is incredibly obsolete and obviously no longer classified. However, they would fetch an excellent profit in a historical auction, being original documents concerning the Cold War in good to excellent condition.</item>
+        <item>A large aluminum mixing bowl filled to the brim with a colorful assortment of cheap Bic lighters.</item>
+        <item>The 42 left hands from different dolls, each labelled with a tag stating a different date, time, location, hair color, a persons name and if they screamed.</item>
+        <item>A Lawgiver pistol from the Judge Dredd series. It obviously isn\'t a working firearm, but it\'s clearly been used as a prop in one of the movies; perhaps it could be sold to a collector or something.</item>
+        <item>A tape recorder with a couple of bullet holes in it.</item>
+        <item>A small wooden box containing four ceramic rods used for knife sharpening. The box contains holes drilled at 20 and 25 degree angles. Well used.</item>
+        <item>Four very lightly used Diamondback Tactical Predator Ballistic Vests with soft armor plates inserted; three are size large and Ranger Green, the fourth is size medium and Camel Tan colored.</item>
+        <item>A small pile of eight brick-like objects, with desert-tan coloration. A Military Science roll will identify them as blocks of explosive-reactive armor (ERA), of the type fitted to armored vehicles. With a few hundred of these, you could fit out an entire tank against missiles; eight aren\'t particularly enough to do anything worthwhile.</item>
+        <item>Cardboard box containing neatly folded, but very bloody, man\'s suit.</item>
+        <item>A large tote-bag containing three crumpled security guard uniforms for a local licensed security company (SIZ 11-14).</item>
+        <item>A framed "Employee of the Month" certificate from a office supply store in the local area.</item>
+        <item>Cammenga 3H military tritium lensatic compass w/carrying pouch.</item>
+        <item>Two ghillie suits.</item>
+        <item>1 hardened steel prybar</item>
+        <item>42 bronze Roman coins in plastic sleeves - they are in poor condition and are worth $5+3d6 each.</item>
+        <item>A single steel toed boot.</item>
+        <item>A paperback 2007 reprint of Brad Steiger\'s 1979 book "Worlds Before Our Own"; in which the author makes the argument for a global perhistoric civilization.</item>
+        <item>BioRad BioOdyssey Calligrapher. A compact benchtop gene sequencer. White plastic box, 475mm x 406mm x 406mm (WxDxH) with an attached PC and supplies of required chemicals. There is also a mini-air conditioner to cool the samples. Everything the biochemist or advanced medic needs to tell just what tampering has been going on in a DNA sample. Requires significant skill in Chemistry, Biology or Medecine to use, and to interpret the results.</item>
+        <item>A clockwork monkey that bangs a pair of metal cymbals together when wound up. Noisy and irritating but otherwise harmless.</item>
+        <item>A large, rolled-up poster detailing routine cleaning and maintenance of the M240 general-purpose machine gun.</item>
+        <item>An octagonal bumper pool table, with two cues and a complete set of balls.</item>
+        <item>Six ABC fire extinguishers.</item>
+        <item>Eight shipping crates filled with Catholic communion wine, as well as a recipe for making unleaven communion wafers from scratch.</item>
+        <item>A clown costume consisting of a bright red suit with white polka dots. a white neck ruffle, three colored pom-poms running along the middle of the torso, a matching pointed hat topped with a pom-pom, a bright orange wig, a pair of large white gloves and a pair of fifteen-inch long red and blue clown shoes.</item>
+        <item>Several cans of light blue wall paint; one has been opened and sampled on the nearby wall.</item>
+        <item>An Eye of Horus amulet, constructed of recycled aluminum and twine.</item>
+        <item>A small leather pouch containing a cake of soap in a soap dish, a shaving brush, a leather strop, and a straight razor with an ivory handle. All the items are in excellent condition.</item>
+        <item>A keyaki wood vanity-set, well stocked with professional theatrical make-up and an assortment of wigs, props and latex. Even a novice make-up artist could get a +5% to Disguise rolls out of this lot.</item>
+        <item>A cardboard box filled with dozens of slim black notebooks. Each of the notebooks is written in a cipher. When decoded, with Cryptography or Int x2, the notebooks contain horse racing statistics and betting results.</item>
+        <item>A collection of six-sided dice, along with a sheet of paper covered in tally marks. Judging by the pattern of the numbers, you\'d guess that someone was attempting to determine whether or not they were loaded. Judging by the breakdown, the answer was probably yes.</item>
+        <item>A bowl made of reddish-gold metal, the inside is lined with rows of human molars molded from the same metal. Who made the bowl and why is unknown.</item>
+        <item>An unmarked cardboard box continuing a deflated, but apparently well used, "Officer McNasty" blow-up sex doll. A foot-pump can be found nearby.</item>
+        <item>A long rusted icepick. A cardboard label reading "11/22/1939, Evidence D" is attached to the cracked wooden handle by a length of string.</item>
+        <item>A 1991 Cannondale SE1000 mountain bike.</item>
+        <item>A brushed aluminum briefcase that appears to contain $750,000 in cash. The money is arranged in stacks, with bank bands labeled "$10,000", but each stack actually contains ninety-nine $1 bills, with a single $100 bill on top. The actual total is $14,925. If investigated it will be found that the bands are crude forgeries made with a laser printer and cut out with scissors, and that the bank named is fictitious.</item>
+        <item>A five-gallon bucket filled to the brim with loose strike-anywhere matches.</item>
+        <item>Silva Ranger 515 compass</item>
+        <item>A photogragh of a young, attractive, foreign looking woman along with an ankle bracelet and papers of little interest except a letter to player written in a desparate tone "One of my daughters has gone missing, despite our reputation as Tcho-Tcho we have never broken American law... Please help me I suspect she has been taken by another family that is not so peaceful! Raul"</item>
+        <item>A rather well-filled tool-box. Contains most things necessary for minor repairs and fixing.</item>
+        <item>A pair of black gloves in good condition except for considerable wear of the material along the interior edge of the thumb-forefinger length, as if something round and at least five or six inches in diameter where grasped and rubbed regularly.</item>
+        <item>While wearing these gloves an agent finds their grip strength slightly higher than without them. Any agent wearing the gloves also tends to rub their throat and neck quite often.</item>
+        <item>A PSO-1 scope, usually found mounted on Soviet-bloc marksmen\'s rifles. This one has been forcefully separated from its rifle, so violently that the gun\'s side-rail came off with it.\nMiraculously, it is still functional with some slight adjustments.</item>
+        <item>What appears to be a crude time bomb; on closer inspection the "bomb" turns out to be just a digital clock duct taped to a bundle of red wooden dowels.</item>
+        <item>Five pairs of bolt cutters, all with insulated handles and matte black paintjob.</item>
+        <item>An unlabeled, blue 2 gig USB drive. The drive is filled with text documents; all of them transformation fetish fiction of varying quality. The largest file amongst the stories is an untitled age regression story that runs over fifty chapters..</item>
+        <item>A broken and dismantled AAI RQ-2 Pioneer unmanned aerial vehicle.</item>
+        <item>A Canon PowerShot S95: professional quality digital photography for the agent on the go.\nA sucessful LUCK roll finds the hard-drive empty. A failed roll finds it still has pictures saved on it, though what they are of exactly is up to the feverish mind of the Keeper...</item>
+        <item>A paperback book: "The Nephilim Chronicles: Fallen Angels in the Ohio Valley" by Fritz Zimmerman.</item>
+        <item>A number of spare tires for large semi trucks, as well as a very basic maintenance kit for the same.</item>
+        <item>An assortment of breakfast cereals, as well as bowls and spoons, piled atop a small table. Unless the Green Box also contains a refrigerator, however, there is no milk.</item>
+        <item>An old soup can containing $50 US in bills. (two twenties and two fives) dollars and a gold wedding band.</item>
+        <item>A crumpled and bloodstained sheet of paper, covered with faded print. It shows a technical layout of some kind and bears the words, crudely scrawled in black marker "He Always Has More Dudes".</item>
+        <item>A half-used pack of cigarettes that some smart-ass or video game buff has replaced the health warning on with "Smoking Can Reveal Hidden Laser Traps".</item>
+        <item>An unframed portrait of a handsome U.S. Navy sailor, whose uniform indicates him to be a petty officer second class on a nuclear submarine. The portrait is well-executed, but neither signed or dated, and no indications of the subject\'s or artist\'s identity can be gleaned from it.</item>
+        <item>A bulky, complicated backpack device which, on further inspection, turns out to be a Soviet portable chemical warfare detection tool. Predictably, all of its controls are labelled in Russian.</item>
+        <item>A pack of Pokemon cards.</item>
+        <item>Dark blue wetsuit (size large) and well used scuba gear. There is enough air in the scuba tank for about an hours diving.</item>
+        <item>Three 9mm P.A.K. blank-firing pistols; an EKOL Jackal Dual, an EKOL Dicle and a Kimar Lady K.</item>
+        <item>A clear plastic box marked "Good luck" in several languages. Inside is 4 rolls of duct tape, with empty space for two more.</item>
+        <item>A Bolide SC2400/IR wireless 2.4Ghz outdoor infrared camera and transmitter.</item>
+        <item>A small letter opener bearing the logo of the US Postal Service. Its blade has been severely bent.</item>
+        <item>A sockful of nickels.</item>
+        <item>A Cobra 25 LTD CB radio</item>
+        <item>Seven DEA windbreakers, baseball caps and (fake) badges wrapped up in a duvet cover.</item>
+        <item>A box of disposable latex rubber rehab bands - very large rubber bands that are used during physical therapy to provide dynamic resistance.</item>
+        <item>A Persian rug.</item>
+        <item>Right next to the door of the Green Box, there is a black, hard plastic crate, like the kind the US Military uses to airdrop supplies. It is secured with a non-standard electronic keypad lock. A note card is taped to the top of the crate, which has a green triangle spray pained on the lid. The note says: "We whipped up this care package in case the next group of guys were as underprepared and underequipped as we were. Just be kind, and replace or restock it when you\'re done. The combination is the abbreviation of what DG started as. Q-Cell." PCs may roll a KNOW roll to figure out that the combination is \'ONI\'. Alternatively, they can dismantle the pad with an Electrical Repair or Electronics roll.</item>
+        <item>The Care Package contains 3d6 Mundane items, and enough black duffel bags to hold them all.</item>
+        <item>Shoeboxes. Lots of them. All containing shoes. Various types. Various sizes.</item>
+        <item>In a corner of the room on a table is a wooden board for the Japanese game Go, along with small bowls containing the white and black stones. Next to the board is a notepad which has recorded a series of matches between agents H and H.</item>
+        <item>A brand-new nail gun, along with several dozen strips of nails and a compact air compressor for it.</item>
+        <item>One 35lb kettlebell, cast iron dipped in green plastic. A clump of dried blood and hair is stuck to the bottom.</item>
+        <item>MSR DragonFly multi-fuel camp stove w/pot and fuel bottle.</item>
+        <item>A complete set of uniforms belonging to a US Army Master Sergeant Robertson, including everything from dress uniform to BDUs.</item>
+        <item>A burgundy-colored Danelectro Convertible acoustic/electric guitar, in case.</item>
+        <item>A single copper key. The metal has long ago turned green from rust but the number 579 can still be made out.</item>
+        <item>A filing cabinet drawer, apparently removed from its rollers with force. Inside are about most of the flight plans filed at the nearest airport for the last two months.</item>
+        <item>A local police evidence bag containing charred, shattered, and even partially melted remains of a glass bottle. The notations on the bag indicate it was collected at the site of a suspected arson, and may be from a Molotov cocktail.</item>
+        <item>One replacement tread for an M60 Patton tank; what use it could possibly be to the investigators is debatable.</item>
+        <item>Ten red staplers.</item>
+        <item>Large, hand-labeled bottles of many common prescription drugs, ranging from antidepressants to high blood pressure meds (though Pharmacy or Medicine and then Idea checks will note that every single anti-psychotic is here). Each label notes the drug, dosage, and a small taped-on photograph of the pill, but also lists a certain amount of lysergic acid diethylamide (LSD). Again, an appropriate roll will note that the dosages are very small even for LSD, but would build up to full-on hallucinogenic levels should the individual continue to unknowingly take the spiked pills.</item>
+        <item>A military-grade spotter\'s scope, for use in aiding a sniper with target acquisition and shot correction.</item>
+        <item>A ROKON Scout 2 wheel drive off-road motorcycle with an olive drab paint-job.</item>
+        <item>A 100\' length of 550 parachute cord.</item>
+        <item>A can of Deep Woods Off.</item>
+        <item>A home enema kit.</item>
+        <item>Seventeen 1986-minted "Gold Panda" coins. Produced in limited numbers in China annually, each of these gold-bullion coins weigh 1 Troy ounce.</item>
+        <item>A baseball-sized lump of concrete, one particularly flat side of which is spattered with long-dried blood. An attached note indicates that it is a piece of the Berlin Wall.</item>
+        <item>A Yupiteru MVT-7100 continuous-coverage handheld scanning receiver, capable of receiving AM, FM, WFM (wide-FM), USB (upper sideband), LSB (lower sideband), and CW (continuous wave; i.e. Morse code) transmissions.</item>
+        <item>A detailed bracelet made in a the shape of an ouroboros, carved from jade</item>
+        <item>A fiskars hatchet, bloodstained.</item>
+        <item>A set of car keys belonging to a 1985 Lincoln Towncar, an RFID passkey, and a note with an address and storage unit number.</item>
+        <item>A large black peacoat, into which someone has secretly stitched several .357 Magnum rounds into ideal hiding places. While they can\'t be accessed without cutting into the coat, they are also nigh-impossible to detect in a manual patdown, even by suspicious guards.</item>
+        <item>A Sony DVP-FX810 portable DVD player with an 8-inch LCD screen.</item>
+        <item>Half a dozen barstools with padded seats.</item>
+        <item>Two brand new shovels, four pairs of work gloves and a hat-lamp.</item>
+        <item>A Grundig GS350DL portable AM/FM/shortwave radio.</item>
+        <item>A pair of AN/PRC-152 Multiband Handheld Radios, configured for encrypted communications with each other.</item>
+        <item>Heart‑shaped locket, nickel plate. Clasp damaged, chain knotted three times. No pictures within the locket. There is a faint amount of adhesive residue on the interior of the locket, suggesting there were once pictures inside.</item>
+        <item>Two professional-grade handheld paint guns, loaded with neon pink paint.</item>
+        <item>A brand new Dell laptop, still in its original packaging.</item>
+        <item>A Dell paperback omnibus of Robert Anton Wilson\'s Illuminatus! Trilogy: The Eye in the Pyramid, The Golden Apple, Leviathan.</item>
+        <item>Several blown-up street maps of the nearest large city, with multiple bus routes drawn in with red marker. One of them has been marked up heavily with what appear to be ambush plans upon further study.</item>
+        <item>CPS1500 Super Soaker squirt gun. Delivers one liter in 4 seconds, after which pumping is required. Holds 3 liters (4 if the firing chamber is filled too). Range: 40 feet. Like new in box.</item>
+        <item>Large suit-carrier containing half a dozen men\'s suits. The suits are all dark grey, and come in a variety of sizes: 40, 42, 44, 46, 48 and 50. There are six white shirts, still sealed in the original packing, six black ties, and six pairs of plain black leather shoes.</item>
+        <item>A cheap plastic replica of the Statue of Liberty, the kind sold in NYC souvenir shops. The base is wieghted with a slab of pot metal. Weighing in at 1/2 lb., it would make a decent throwing weapon.</item>
+        <item>Four identical ivory dice; however, the pips of two are black and the other two are extremely dark grey, nearly indistinguishable unless the observer is actively looking for it between the two sets. The black dice are "true", the dark grey are loaded to win at craps.</item>
+        <item>A child\'s porcelain piggy-bank. "In Case Of Emergency: Break!" is written on the side in red sharpie. Inside is $852 in denominations of $5 and $10 bills, as well as a single two-dollar bill.</item>
+        <item>A collection of high quality cooking utensils.</item>
+        <item>A Brunton Polaris LED lantern.</item>
+        <item>A locked, rusty metal chest with the words "Emergency Use Only" written on it in green paint. Inside are five bottles of Vin Mariani. If not drunk these bottles are worth quite a bit in the right market.</item>
+        <item>A purple Nintendo Gameboy Color with a copy of Pokemon Sapphire version inserted. The handheld game system has clearly been dropped down the stairs a few times but still functions and has half charged batteries.</item>
+        <item>A small mound of olive-drab wool blankets, as well as two average pillows.</item>
+        <item>Someone\'s set up a six foot tall Christmas tree in the center of the greenbox, down to the chaser lights and cheap glass ornaments dangling from the branches.</item>
+        <item>A coupon from a nearby fast food restaurant for $1 off your next purchase of a cheese burger combo meal. It expired 3 days ago.</item>
+        <item>A large assortment of safecrackers\' tools, spread among several backpacks and duffel bags. In addition to the standard lockpicking sets, there are more destructive pieces of equipment, such as thermal drill rigs, sledgehammers, cutting torches, etc.</item>
+        <item>An Intex Mariner inflatable boat; two aluminum oars, three inflatable seat cushions and a high-output pump are included.</item>
+        <item>One syringe of morphine in a sealed package.</item>
+        <item>A bowl of thick green lliquid.</item>
+        <item>120 feet of 550 parachute cord, OD green</item>
+        <item>An oil painting. It depicts a clipper ship on dark waters, coming into port in the dead of night. A lighthouse, standing tall in the distance, lights the way.</item>
+        <item>1 U-Dig-It stainless steel folding shovel.</item>
+        <item>An unused magnesium flint stick.</item>
+        <item>Thousands of stamps, all neatly stored in a collection of folders. Worth a couple of hundred bucks on the philately market.</item>
+        <item>A two-by-four plank with a rusty nail through it.</item>
+        <item>A small burlap sack filled to the brim with assorted screwdrivers. It was clearly haphazardly collected; the tools are of different quality and manufacturers, some sizes are repeated while others are absent, and they all seem rather corroded as though from prolonged exposure to seawater.</item>
+        <item>A wall map of Middle Earth.</item>
+        <item>A collection of lego toys arranged into a structure without a roof. Inside are various pieces resembling chests, chairs, computers, desks, people, etc\nIt may have been part of a planning process for a previous or future mission, or one of the agents had too much time on their hands.</item>
+        <item>A small, padded envelope simply labeled "End Kit".\nInside are a black blindfold, a single high-end cigarette and a single strike-anywhere match, a zip-tie, and a 9mm hollowpoint bullet.</item>
+        <item>10 rolls of duct tape.</item>
+        <item>A broken Ormolu clock.</item>
+        <item>Cracked ceramic serving platter, blue‑willow pattern.</item>
+        <item>A cardboard box full of ready-make chocolate brownie mixture</item>
+        <item>A dark green Honda CRF450R off-road motorcycle. A black helmet hangs on one handle.</item>
+        <item>A large stack of unused, brand-new bullseye targets, with clothespins, bailing wire, and pipes with screws driven through them; it\'s clear that this is more or less a portable shooting range kit.</item>
+        <item>A matchbook from the Showboat Hotel &amp; Casino in Atlantic City, New Jersey. A lengthy number has been printed in small but neat handwriting on the inside of the flap, in blue ink.</item>
+        <item>In a corner of the Green Box is a beat-up looking videogame arcade cabinet - the game is called Polybius and features two purple buttons, four black buttons and a joystick for controls. Plugging it into a power source reveals it\'s not functioning at all.</item>
+        <item>Three Auto Ordnance M1 "Paratrooper" carbines with folding stocks. Each comes in a spare rifle case along with 3 30-round magazines. Included are 4 50-round boxes of .30 Carbine 110-grain jacketed soft-point bullets, manufactured by Bitterroot Valley Ammunition.</item>
+        <item>Fallkniven U1 Slipjoint knife with a smooth bone handle.</item>
+        <item>A mint-in-sealed-box G1 Optimus Prime.</item>
+        <item>A single modern British Army uniform, bearing the insignia of a military policeman of the 160th (Wales) Infantry Brigade. It includes standard helmet and body armor, plus boots and full tactical gear (except for grenades, ammunition, and firearms).</item>
+        <item>A copy of "Founding Fathers, Secret Societies: Freemasons, Illuminati, Rosicrucians, and the Decoding of the Great Seal" by Robert Hieronimus, Ph.D. Published by Destiny Books in 2006.</item>
+        <item>Two recording voice activated bugs disguised as a cheap looking big fountain pen and a calculator with 64-hour and 40-hour capacity, respectively. Also present are data cables, to retrieve the stored audio to a computer.</item>
+        <item>A Weltron 2001 radio/8-track tape player in working condition.</item>
+        <item>A straight razor and bowl of soap shavings, to be mixed into a lather. Next to the bowl is a small vial with "Cyanide- make it the last shaving accident they\'ll ever have!" written on it in Sharpie.</item>
+        <item>An 1881 Vose and Sons Square Grand piano, finished in rosewood. The piano\'s exterior is faded, covered in over a century\'s worth of nicks and scars and scratches and stains but someone has had the interior repaired and it plays very well.</item>
+        <item>A large quantity of birth-control medication, still in the (now un)sealed shipping container used to deliver prescription drugs to pharmacies. About a quarter of it is missing. The address listed is a Washington D.C. pharmacy which had gone out of business before the order was even placed.</item>
+        <item>In the green box is a wood gun crate holding 10 STEN mk2 with integral suppressors, still in their origional wrapping. None have ever been used. Records show this box was lost when being transfered from a british army depot to be destroyed 6 years ago. No other records show what happened. Also no magazines for them are in the green box.</item>
+        <item>A Barret M82A2 .50 BMG Anti-Materiel Rifle. The A2 designation means it is in a bullpup configuration. The weapon is sitting on a shelf, bipod deployed and fully loaded. On the stock there is a sticky note which reads "Recommended by Agent K".</item>
+        <item>A wooden head, craved from dark timber. The carving is crude except for its one open eye that is hauntingly realistic.</item>
+        <item>Soft pack of stale pallmal cigarettes, three remaining.</item>
+        <item>One three quarters full, muddy bottle of Gammel Dansk Bitter with scratched and half dissolved labels.</item>
+        <item>A British military temperate camouflage assault vest. In its pouches are four magazines for an L85A2 assault rifle, each loaded with 25 rounds 5.56mm FMJ. (The last and first three rounds in each magazine are tracer.) Four full 500ml bottles of "Emirates" mineral water, (Country of origin Saudi Arabia) two Kellogs Nutri-grain bars (Cherry) and an Israeli Army issue field-dressing.</item>
+        <item>A stuffed crocodile.</item>
+        <item>A trashbag full of $4 Casio F-91W digital wrist-watches, timepiece of choice for al-Qaida bombmakers and budget-buyers alike.</item>
+        <item>A carefully-executed, almost photo-realistic portrait of a young man in khaki military clothing, leaning idly on a Springfield M1903 rifle. The uniform looks to be from sometime between the Spanish-American War and the First World War.</item>
+        <item>A vinyl record of Johnny Cash\'s \'Folsom Prison Blues\', with a faded (but clearly legitimate) autograph in one of the corners.</item>
+        <item>A Fiji mermaid sealed in a glass display case with a wooden frame. The museum tag claims it is property of the Berkley county library in California and the specimen was \'collected\' off the west coast of Japan in 1889. Careful scrutiny will reveal that it is just as much a hoax as its predecessors.</item>
+        <item>Title deeds for an empty, but well-maintained, house about six miles from the Green Box. The owner is a "Daniel Greenwood".</item>
+        <item>A half-dollar coin, weighted so that it lands on heads three-quarters of the time.</item>
+        <item>A Kenmore 58 sewing machine.</item>
+        <item>A blunt and slightly brittle sickle</item>
+        <item>A beat-up white Naugahyde recliner being held together with duct tape.</item>
+        <item>1 Class II Concealable Vest with Level IV Rifle Plates (Woman\'s Medium) - shot to hell</item>
+        <item>A 4m (14ft) long green painted aluminium boat fitted with a 9hp outboard motor. It is mounted on a boat trailer. In the bow of the boat is a blue hardshell briefcase. The briefcase contains the following: A copy of Edwin Corley\'s novel \'Sargasso\'. A printout of the NTSB/USCG report into the storm that claimed the lives of eight people on Lake Michigan in 1967; the name of the one victim unaccounted for, a Mary Richfield, has been highlighted in green. A draft copy of a book entitled \'Fury on the Lake\' by William H. Smith; it\'s a \'Perfect Storm\' style account of the events described in the report, the inherent drama of the events is vitiated by the author\'s undisguised contempt for the victims. One chapter entitled \'The search for Mary Richfield\' is missing. Attempts made to trace the author will reveal that he disappeared on Lake Michigan in 2000.</item>
+        <item>Several thin, sharpened lengths of rebar set into a reshaped sliding door bracket, forming an improvised anti-tire spike strip.</item>
+        <item>A series of unlabelled ampoules containing opaque black liquids of various viscosities. The ampoules are packed in a dense foam-like substance that protects the glass from the force of impacts.</item>
+        <item>Two police uniforms, both roughly SIZ 13. One is that of a Texas state trooper, and the other is that of the current state\'s state police (unless of course the Green Box is in Texas, in which case it is an Oklahoma state police uniform).</item>
+        <item>Three mining helmets with attached LED lights.</item>
+        <item>A Timex 1967 Silver Viscount wristwatch. There are a few scuffs on the crystal face.</item>
+        <item>A 6\'x12\' sheet of bulletproof glass.</item>
+        <item>A gold fringe-trimmed 3 x 5 United States flag on an 8-foot high oak staff with a rounded base, topped off with a small gold eagle.</item>
+        <item>Several antique pieces of glassware, made of high-quality crystal glass. They would not look out of place in an old woman\'s china cabinet, though the fact that there is nothing outwardly odd about them makes them seem highly out of place here.</item>
+        <item>A child\'s face painting kit, containing a few brushes, a used palette of different colours, a small mirror and a booklet of possible designs to make using the kit.</item>
+        <item>A chintzy orange plastic multibit screwdriver, which you could buy for, well, a dollar in any dollar store. Carefully rolled up and stuffed into the handle where the bits usually go is a single hundred dollar bill and three 9mm parabellum rounds.</item>
+        <item>Four Ikea Office-style swivel chairs.</item>
+        <item>A 15-foot long propeller blade from a C-130 "Hercules".</item>
+        <item>A Kaweco AL Sport fountain pen.</item>
+        <item>Ecotat Universal Shelter tent</item>
+        <item>5 DAP-type canisters of Hexafluorine, one is half used.</item>
+        <item>A portable stop sign similar to those used by crooked Russian policemen, although in English. The rationale behind it is for the stop sign to be placed in hard-to-see or illogical places that motorists won\'t or can\'t see, in order to justify a traffic stop.</item>
+        <item>three black garbage bags, wrapped around each other. The innermost bag contains various streetclothes, some tattered and drenched in blood.</item>
+        <item>8\' fiberglass ladder.</item>
+        <item>A rape-kit (or "sexual assault forensic evidence" kit, as used by police) - includes: evidence bags, swabs, combs, slides, nail-picks, labels, and a set of paper clothing to change into.</item>
+        <item>A single 5-inch gun round of the kind fired from naval warships. Markings on the casing indicate it was taken from the USS John Hancock during her decommissioning in 2000.</item>
+        <item>Ten 20-round boxes of Remington UMC .223 55-grain metal case rifle ammunition.</item>
+        <item>A pair of Yukon Optics 2x24 Tracker Night Vision Binoculars</item>
+        <item>2 6x6 "Bomb Blankets" - Level III-A in Black</item>
+        <item>A paperback book: "Occult America: The Secret History of How Mysticism Shaped Our Nation" by Mitch Horowitz</item>
+        <item>A very large toolbox. Inside is a neatly folded, blue coverall jumpsuit, with the words, "Skyward Bound, Elevator Repair Service" stitched on the back. Beneath the uniform there are about half of the parts that would be necessary to make a remotely detonated bomb.</item>
+        <item>A box of assorted batteries.</item>
+        <item>It\'s a computer with an Internet connection. Once surfing the Web, the user can make a WILL roll every 15 minutes to break away. 1d2/1d6 SAN loss per hour, no Mythos knowledge.</item>
+        <item>A small brick (~400g) of pure potassium soaked in mineral oil, sitting in a completely airtight and dehumidified transparent container. It should be remembered how volatile genuinely pure potassium is upon contact with any amount of water.</item>
+        <item>16 disposable emergency rain ponchos</item>
+        <item>2 pairs of smartwool socks (size 12)</item>
+        <item>Three British Army-issue NBC suits with S10 respirators.</item>
+        <item>An empty, rusted footlocker.</item>
+        <item>A crate full of copies (for the Atari 2600) of E.T. the Extra Terrestrial.</item>
+        <item>Three pairs of ATN FIITS14 night vision goggles (which can also be used as night vision binoculars)</item>
+        <item>A small incense burner with three types of oil. None have labels.</item>
+        <item>A long stretch of metal shelving filled with a wide array of ammunition, ranging from .338 Lapua all the way down to .25 ACP.</item>
+        <item>Someone seems to have carefully scattered a thin layer of flour on the entire floor of the greenbox. By opening the door and stepping inside the characters have disturbed the layer of flour, showing that the greenbox has been disturbed.</item>
+        <item>"War and Peace". This book has been turned into a secret box, the pages glued together, hollowed out, and stuck to the hardback cover to make a hiding place.</item>
+        <item>Two tupperware bins filled with hard-baked mud that appears to sparkle a little bit under the light; the bins are connected by lengths of insulated wire that lead to a small electronics package.\nThis device is a mauve box, or a homemade inductive tap for phone lines. The idea is that you place the two inductive pickups (the bins containing wound electromagnets tuned to the EM interference given off by an off-hook phone line) near the phone lines as they head into the demarc (the grey plastic box on the outside of a house) and the current generated when the line is off-hook are fed into an amplifier (the plastic project box) and thence into a recorder of some kind.\nThe device is bulky and kind of tricky to set up because it was manufactured in someone\'s basement, but if you need to tap a buried phone line you could do worse. Supply your own recorder and weatherproofing for the apparatus.</item>
+        <item>Three Princeton Tec EOS headlamps.</item>
+        <item>Blackmail material on a local political figure. The figure is still in power, but isn\'t much of political player. May prove useful if needed.</item>
+        <item>A camp stove with fuel, a box of Bisquick, powdered milk, water, a mixing bowl, a small vanilla bottle, a frying pan, a teflon spatula, a pack of paper plates, plastic forks, and a bottle of Vermont maple syrup, all in a cardboard box. Someone wrote "Instant Breakfast" on the box.</item>
+        <item>A large yellow roll of police crime-scene tape, apparently brand new.</item>
+        <item>A huge heap of seemingly random car parts fills the majority of the Green Box which, if sorted out by a mechanic, will turn out to be about 25% of a 1984 Ford F-150, 10% of a 1971 Volkswagen Beetle, and 5% of a 1996 Toyota Corolla. Primarily mechanical parts, although a few seats, doors, fenders, etc have made it in as well.</item>
+        <item>30 foot length of rope.</item>
+        <item>A small lacquered box containing a few oddly shaped pearls.</item>
+        <item>A scuffed blue duffel bag containing everything necessary for a night\'s vampire hunting: one large silver cross, Catholic rosary beads, a glass jar full of rice, eight wooden tent pegs, a mallet, and a squeezy bottle labelled "holy water/essence of garlic".</item>
+        <item>An electronic pick-gun, used for picking locks. Somewhat noisy, but all but the best locks will open in seconds.</item>
+        <item>18th-century trepanning case</item>
+        <item>A Vortex Solo 8x monocular with a neck lanyard.</item>
+        <item>Large-print and library-bound copies of Chester Himes\' "Harlem Detective" series. Apparently stolen, since someone\'s made a good job of scribbling out the library-issue stamps with red ink.</item>
+        <item>An unopened fifth of cheap bourbon, with a note, "From W-Cell. Drink it if you need it but if you use it, leave another, okay?" Behind it is a pile of empty bottles.</item>
+        <item>A black trash-bag full of (legal) prescription drugs. A doctor, or successful pharmaceutical skill roll, should be able to find anything needed after a quick search.</item>
+        <item>A series of seven sketches by Honore Daumier. Careful examination reveals them to be excellent forgeries.</item>
+        <item>A small piece of luggage, bearing several airline baggage stickers; all names are hopelessly generic, such as "John Jones" or "Will Brown". Inside is a meager but high-quality set of jeweler\'s equipment, a soldering kit, a stack of black zip-ties, and several (unrefrigerated) vials of Botox with hypodermic needles.</item>
+        <item>A normal "Get Well Soon" card, of the type bought at a drugstore for a dollar or two. It\'s signed with three first names, each starting with the same letter as that of the current investigators\' cell, and directed to a fourth.\nIt\'s fairly obvious that this card is a remnant from a previous iteration of the investigators\' cell; if asked, A-Cell flatly refuses to provide any information on what happened to them.</item>
+        <item>A large (50 gallon) aquarium that has been converted into a beach-style terrarrium for the small colony (about a dozen) baseball-sized hermit crabs living there. The terrarrium is partially full of beach sand, and contains extra shells, rocks, driftwood, partially submerged pools of water (fresh), and bits of fence for the crabs to interact with. The crabs appear to be quite happy but could probably stand to have the water in the pools changed.</item>
+        <item>Surefire brand M3LT hand sun. Dual output 70/800 lumes. 9 inches overall length, with a battery life of 10 hours on low and 2 hours on high. Can be wielded easily with any other one handed weapon.</item>
+        <item>A plastic grocery bag from a local chain. It\'s half full of zip-lock baggies containing heavier-than-normal packs of cigarettes, cheap disposable fountain pens made out of grubby orange plastic, balled up bootlaces, some tacky children\'s watches, and some sticky looking peanut butter and jelly sandwiches.\nThe miscellaney is a collection of carefully disguised bomb components. The cigarettes contain compact radio receivers which are apparently hand-made. Each of the fountain pens contains a single industrial blasting cap with the wire leads coiled end-over-end (as if wrapped around someone\'s hand a few times). The bootlaces are skinny fabric tubes which contain stranded copper hookup wire (uninsulated). The kids\' watches have been pried apart and are modified to act as countdown timers. The bread of the sandwiches appears to be industrial plastic explosive; the crusts are actual bread crusts stuck on for verisimilitude, and the peanut butter and jelly are real PBnJ spooned into a groove squished into the cake of plastique to make them look edible.\nThere are enough parts to make six bombs. Whether or not the parts can be hooked up to form working bombs is left up to the keeper.</item>
+        <item>A large, SWAT-grade breaching tool- a combination sledgehammer and crowbar made of solid steel.</item>
+        <item>6 military cots</item>
+        <item>5 cases of discount store-brand bottled water. Each case contains 24 13-oz. bottles.</item>
+        <item>Five boxes of Coast Guard approved emergency water rations. One has been torn open rather violently, almost as if by a wild animal.</item>
+        <item>4 bedrolls and pillows.</item>
+        <item>A sizable metal locker labelled the "Warren Zevon Kit" with a sticky-note. Inside is $20,000 in cash, half a dozen AKM assault rifles with 1000 rounds of ammo and thirty mags, and a cigarette pack full of lawyers\' business cards- at least half of which are DG friendlies.\nA sticky note inside says "Only use if the shit has hit the fan. -R"</item>
+        <item>1 22" pruning shear (with faint traces of blood on the blades)</item>
+        <item>A Leatherman Monarch 300 LED flashlight.</item>
+        <item>A brass miniature of the Eiffel Tower.</item>
+        <item>A Burdizzo -- a castration device consisting of a large clamp (this one being nineteen inches) used for the bloodless castration of cattle and sheep.</item>
+        <item>Small two-seater sofa, upholstered in a drab green fabric.</item>
+        <item>A stack of fluorescent orange traffic cones, along with an orange hard hat, a reflective highway vest, and the staff-mounted stop/slow signs used by highway workers to control traffic.</item>
+        <item>A baby\'s milk-formula can full of granular yellow powder. This is yellowcake: a slightly radioactive refined uranium ore. It\'s probably not too dangerous, so long as you don\'t carry it for prolonged periods or, God forbid, eat the stuff.</item>
+        <item>A large suitcase covered in airport tags and stereotypical traveler stickers of exotic places. The interior has been hollowed out and apparently converted into a covert travel-terrarium for some kind of small animal.</item>
+        <item>A string of rosary beads.</item>
+        <item>A brochure for a local shopping-mall. Stapled to it is a schematic and floorplan of the entire building, including private and inaccessibly areas.</item>
+        <item>A plastic laser pointer, using two CR-2 watch batteries.</item>
+        <item>A bobbing-head doll of Chairman Mao for your car dashboard, complete with little Mao suit and goiter.</item>
+        <item>A ziploc bag full of coarse tobacco, spiced with fresh nutmeg.</item>
+        <item>4 Safety Tech M95 respirator masks.</item>
+        <item>A ceramic Maneki-Neko, or Japanese Lucky Cat figure. It sits up right with one paw upraised in greeting, and another clutching a golden coin.</item>
+        <item>A fist-sized 12.6 carat violet-hued ruby wrapped in a dirty cotton handkerchief. The cloth has "Remember Me, Daniel" handstitched in ugly blue felt lettering.</item>
+        <item>A Guinness brand pint-glass, slightly chipped along the rim.</item>
+        <item>Half a dozen no. 8 commercial blasting caps in a weatherproof container. While nearly useless on their own, an investigator versed in demolitions will know that these are some of the more difficult bomb parts to improvise, with the rest being simple chemistry.</item>
+        <item>A napkin from a national fast-food chain store. Written on it is a telephone number with a local area code. The number is for a high-class escort service.</item>
+        <item>Bottle of water, unopened. The label is attached with Scotch tape, detaching it will reveal a neat spiral drawn in pen.</item>
+        <item>1 case ( 12 meals ) of MREs. No heaters are present.</item>
+        <item>Rubbermaid 3-Step steel step stool.</item>
+        <item>A lepidoptery collection consisting of three 40cm-square wooden cases (about 5cm deep) with sliding glass tops, stacked atop each other. A total of 17 butterflies and moths are pinned inside the cases. There is room for about 10 more insects.</item>
+        <item>Dutch Army-issued Victorinox pocket knife.</item>
+        <item>Eureka Mountain Pass four-person tent and four Kelty mummy sleeping bags.</item>
+        <item>A portable CD player. It is old, but in good condition. The batteries are fully charged, and a pair of outdated but functional headphones is coiled nearby.</item>
+        <item>An expensive ivory mahjong set in a mottled leather and brass-clasp case. All four Red Dragon tiles are missing.</item>
+        <item>A 20\' aluminum ladder</item>
+        <item>A Moultrie Game Spy M-80 Game Camera with 5 spare 32GB memory cards and three eight-packs of AA batteries</item>
+        <item>A small box containing a flat pack diy of a wooden table.</item>
+        <item>A crate half-full of expensive electric razors. A note taped to the lid reads, "Take however many you want, fell off the back of a truck somewhere. -R"</item>
+        <item>GSM cellphones with prepaid accounts, purchased anonymously sometime two years ago. The prepaid balances are about $300 each. One is a Nokia 6301b, one is a fancier model Samsung, and the last is a newer model Sony-Ericsson with good cameras. All phones have the numbers of other phones stored in their phone-books under inconspicuous names. The phones have message encryption/decryption programs loaded.</item>
+        <item>1 Mechanical water filter w/ spare filter</item>
+        <item>A battery-powered lock-picking tool. (Gives an additional 20% on lock-picking attempts.)</item>
+        <item>A piece of paper in a "pharmaceutical fold," used to safely contain powders. Opening it spills dozens of ticket stubs for a nearby pawn shop. Obviously somebody pawned a lot of the Green Box\'s goods over the years, and anyone recouping them can claim 1D6+1 Mundane generated items.</item>
+        <item>A half empty cardboard box of generic condoms. A faded sticky note attached reads "Sam, it\'s your turn to get more. -Love, Hal"</item>
+        <item>A plastic laser pointer. Made of black plastic, and uses AAA batteries.</item>
+        <item>A prepaid cell phone with two thousand minutes.</item>
+        <item>A 25-cent gumball machine, dispensing novelty human-eye gumballs.</item>
+        <item>A gallon sized ziplock bag filled with grey powder. The bag has THERMITE written on it with sharpie</item>
+        <item>Six bottles of Gorkha Beer in their cardboard carrier.</item>
+        <item>A Compass Yukon 99B metal detector with 8" coil.</item>
+        <item>A "clean" laptop and an encrypted Ironkey thumb drive.</item>
+        <item>A 5-gallon paint bucket filled with homemade steel caltrops.</item>
+        <item>A clay mug spray painted to look metallic with a curvy handle and large volume, it bears a label that reads "Ohio Renaissance Faire"</item>
+        <item>A lump of moon rock in a hermetically-sealed jar.</item>
+        <item>A pneumatic nail gun.</item>
+        <item>A most impressive wine collection with a bottle labeled 1473, if a sip is taken the investigator blacks out drunk.</item>
+        <item>A 16th century Flemish Portrait depicting a group of scholars gathered around a partially dissected humanoid cadaver. Closer examination (and appropriate Medical/Mythos rolls) will reveal it\'s a ghoul corpse.</item>
+        <item>One well used Stihl 3hp chainsaw.</item>
+        <item>About two dozen tin buckets full of pachinko balls.</item>
+    </string-array>
+</resources>

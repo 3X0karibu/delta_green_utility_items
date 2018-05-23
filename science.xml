@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="science_mathematics">Mathematics</string>
+    <string name="science_biology">Biology</string>
+    <string name="science_physics">Physics</string>
+    <string name="science_chemistry">Chemistry</string>
+    <string name="science_geology">Geology</string>
+    <string name="science_astronomy">Astronomy</string>
+    <string name="science_social">Social</string>
+    <string name="science_philosophy">Philosophy</string>
+    <string name="science_meteorology">Meteorology</string>
+    <string name="science_rocket">Rocket</string>
+    <string name="science_astronautics">Astronautics</string>
+
+    <string name="science_custom">CUSTOM</string>
+</resources>

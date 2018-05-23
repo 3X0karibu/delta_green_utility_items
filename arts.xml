@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="art_visual_drawing">Drawing</string>
+    <string name="art_visual_painting">Painting</string>
+    <string name="art_visual_ceramics">Ceramics</string>
+    <string name="art_visual_photography">Photography</string>
+    <string name="art_visual_architecture">Architecture</string>
+    <string name="art_visual_sculpture">Sculpture</string>
+    <string name="art_visual_conceptual_art">Conceptual Art</string>
+
+    <string name="art_literary_literature">Literature</string>
+
+    <string name="art_performing_music">Music</string>
+    <string name="art_performing_theatre">Theatre</string>
+    <string name="art_performing_dance">Dance</string>
+
+    <string name="art_custom">Custom</string>
+</resources>
