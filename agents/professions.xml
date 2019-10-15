@@ -55,7 +55,7 @@
     <string name="profession_fbi_hrt_swat">FBI HRT/SWAT</string>
     <string name="profession_ice_special_response_team">ICE Special Response Team</string>
     <string name="profession_usaf_24_special_operations_wing">USAF 24th Special Operations Wing/720th Special Tactics Group</string>
-    <string name="profession_us_army_1_special_force_group">U.S. Army 1st Special Force Group</string>
+    <string name="profession_us_army_1_special_forces_group">U.S. Army 1st Special Forces Group</string>
     <string name="profession_us_army_75_ranger_regiment">U.S. Army 75th Ranger Regiment</string>
     <string name="profession_us_army_isa">U.S. Army ISA</string>
     <string name="profession_usmc_forecon">USMC FORECON</string>
@@ -83,32 +83,32 @@
     <string name="profession_dept_of_state_intelligence_and_research_media">Dept. of State Intelligence and Research</string>
     <string name="profession_ice_hsi_intelligence">ICE HSI/Intelligence</string>
 
-    <string name="profession_cdc_emergence_operations_center_science">CDC Emergence Operations Center</string>
-    <string name="profession_cdc_office_of_public_health_preparadness_and_response_science">CDC Office of Public Health Preparadness and Response</string>
+    <string name="profession_cdc_emergency_operations_center_science">CDC Emergency Operations Center</string>
+    <string name="profession_cdc_office_of_public_health_preparedness_and_response_science">CDC Office of Public Health Preparedness and Response</string>
     <string name="profession_cdc_office_of_public_health_scientific_services_science">CDC Office of Public Health Scientific Services</string>
     <string name="profession_dea_operational_support_science">DEA Operational Support</string>
     <string name="profession_dea_special_operations_division">DEA Special Operations Division</string>
     <string name="profession_epa_regional_office_specialist">EPA Regional Office Specialist</string>
     <string name="profession_fbi_intelligence_and_operations_support_science">FBI Intelligence and Operations Support</string>
     <string name="profession_public_health_service_commissioned_corps_science">Public Health Service Commissioned Corps</string>
-    <string name="profession_usaf_70th_intelligence_survelliance_and_reconnaisance">USAF 70th Intelligence, Survelliance and Reconnaisance</string>
+    <string name="profession_usaf_70th_intelligence_surveillance_and_reconnaisance">USAF 70th Intelligence, Surveillance and Reconnaisance</string>
     <string name="profession_usaf_318th_cyberspace_operations">USAF 318th Cyberspace Operations</string>
-    <string name="profession_usamrid">USAMRID</string>
+    <string name="profession_usamriid">USAMRIID</string>
 
-    <string name="profession_cdc_emergence_operations_center_medical">CDC Emergence Operations Center</string>
-    <string name="profession_cdc_office_of_public_health_preparadness_and_response_medical">CDC Office of Public Health Preparadness and Response</string>
+    <string name="profession_cdc_emergency_operations_center_medical">CDC Emergency Operations Center</string>
+    <string name="profession_cdc_office_of_public_health_preparedness_and_response_medical">CDC Office of Public Health Preparedness and Response</string>
     <string name="profession_cdc_office_of_public_health_scientific_services_medical">CDC Office of Public Health Scientific Services</string>
     <string name="profession_public_health_service_commissioned_corps_medical">Public Health Service Commissioned Corps</string>
     <string name="profession_us_army_medical_corps">U.S. Army Medical Corps</string>
     <string name="profession_us_navy_hospital_corps">U.S. Navy Hospital Corps</string>
 
     <string name="profession_usaf_41st_rescue_squadron">USAF 41st Rescue Squadron</string>
-    <string name="profession_usaf_45st_fighter_squadron">USAF 45st Figther Squadron</string>
+    <string name="profession_usaf_45st_fighter_squadron">USAF 45st Fighter Squadron</string>
     <string name="profession_usaf_432nd_operations">USAF 432nd Operations</string>
-    <string name="profession_us_army_160th_special_operations_aviation">U.S. Army 160th Special Operations Aviation</string>
+    <string name="profession_us_army_160th_special_operations_aviation_regiment_airborne">U.S. Army 160th Special Operations Aviation Regiment (Airborne)</string>
 
-    <string name="profession_cdc_emergence_operations_center_bureaucrats">CDC Emergence Operations Center</string>
-    <string name="profession_cdc_office_of_public_health_preparadness_and_response_bureaucrats">CDC Office of Public Health Preparadness and Response</string>
+    <string name="profession_cdc_emergency_operations_center_bureaucrats">CDC Emergency Operations Center</string>
+    <string name="profession_cdc_office_of_public_health_preparedness_and_response_bureaucrats">CDC Office of Public Health Preparedness and Response</string>
     <string name="profession_dea_operational_support_bureaucrats">DEA Operational Support</string>
     <string name="profession_dept_of_state_intelligence_and_research_bureaucrats">Dept. of State Intelligence and Research</string>
     <string name="profession_dept_of_state_inl">Dept. of State INL</string>
@@ -120,7 +120,7 @@
     <string name="profession_fbi_directorate_of_intelligence_intel">FBI Directorate of Intelligence</string>
     <string name="profession_fbi_national_security_intel">FBI National Security</string>
     <string name="profession_ice_hsi_intelligence_intel">ICE HSI/Intelligence</string>
-    <string name="profession_usaf_70th_intelligence_survelliance_and_reconnaisance_intel">USAF 70th Intelligence, Survelliance and Reconnaisance</string>
+    <string name="profession_usaf_70th_intelligence_surveillance_and_reconnaisance_intel">USAF 70th Intelligence, Surveillance and Reconnaisance</string>
     <string name="profession_usaf_614th_air_and_space_operations_intel">USAF 614th Air and Space Operations</string>
 
 </resources>
